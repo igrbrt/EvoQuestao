@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "EvoQuizz",
+    "slug": "evoquizz",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "4.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      },
+      "bundleIdentifier": "com.br.evoquizz",
+      "buildNumber": "4.0.0"
+    },
+    "android": {
+      "package": "com.br.evoquizz",
+      "versionCode": 4,
+      "permissions": [
+        "WRITE_SETTINGS"
+      ]
+    },
+    "description": ""
+  }
+}

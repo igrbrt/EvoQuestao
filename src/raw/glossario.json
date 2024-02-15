@@ -1,0 +1,574 @@
+{
+  "glossario":[
+    {
+      "code":"0",
+			"name":"Adaptação",
+			"description":"Uma característica produzida pela seleção natural para sua função atual."
+    },
+    {
+      "code":"1",
+			"name":"Aleatório",
+			"description":"Imprevisível de alguma maneira. Mutações são \"aleatórias\" no sentido de que o tipo de mutação que ocorrerá geralmente não pode ser predita baseando-se nas necessidades do organismo. Entretanto, isso não quer dizer que todas as mutações são igualmente prováveis de acontecer ou que mutações acontecem sem razão física. De fato, algumas regiões do genoma são mais sucessíveis a manter mutações do que outras, e várias causas físicas (ex: radiação) são conhecidamente causadoras de casos específicos de mutações."
+    },
+    {
+      "code":"2",
+			"name":"Alfred Russel Wallace (1823-1913)",
+			"description":"Naturalista galês que, juntamente com Darwin, originou a teoria da evolução por seleção natural. Através de suas viagens, Wallace foi o primeiro a descrever muitas espécies tropicais e pode ser considerado o pai da biogeografia por seu trabalho conectando alterações geológicas à distribuição das espécies."
+    },
+    {
+      "code":"3",
+			"name":"Anagênese",
+			"description":"Modificação na forma (em um sentido amplo) de qualquer ramo filético, envolvendo heterocronia, mutação, recombinação, seleção, deriva genética, etc."
+    },
+    {
+      "code":"4",
+			"name":"Analogia",
+			"description":"Que é similar por razão de evolução convergente e não por ancestralidade comum. Duas características são análogas se as duas linhagens desenvolveram-nas independentemente."
+    },
+    {
+      "code":"5",
+			"name":"Ancestral comum",
+			"description":"Linhagem ancestral compartilhada por duas ou mais linhagens descendentes, um ancestral que eles têm em comum. exemplo, os ancestrais comuns de dois irmãos de sangue são seus pais e avós; os ancestrais comuns do coiote e do lobo incluem a primeira linhagem canina e a de mamíferos."
+    },
+    {
+      "code":"6",
+			"name":"Apomorfia (=derivado)",
+			"description":"A condição mais recente (no sentido temporal) de uma estrutura em uma série de transformação, surgida por modificação de uma condição anterior."
+    },
+    {
+      "code":"7",
+			"name":"Árvores filogenéticas",
+			"description":"Diagramas ramificados que refletem o modo pelo qual os táxons colocados nas extremidades relacionam-se historicamente; dendrograma que expressa relações filogenéticas tanto entre táxons terminais, quanto a grupos ancestrais e descendentes."
+    },
+    {
+      "code":"8",
+			"name":"Autapomorfia",
+			"description":"Caracteres apomórficos exclusivos para um único ramo terminal em um cladograma."
+    },
+    {
+      "code":"9",
+			"name":"Biodiversidade",
+			"description":"É a variedade e a variabilidade entre organismos que habitam uma região particular. Entretanto, o termo pode ser mais especificamente definido e mensurado de diferentes maneiras. Por exemplo, certas vezes \"biodiversidade\" é usado para referir-se ao número de espécies em certa área, outras vezes para o número de diferentes nichos ecológicos ocupados por organismos em uma área em particular ou ainda para a quantidade de divergências genéticas que os organismos em uma área particular tem vivenciado."
+    },
+    {
+      "code":"10",
+			"name":"Caráter ou caracter",
+			"description":"É a diferença entre partes ou entre estruturas de organismos diferentes, ou seja, quando há modificações envolvidas. É, portanto, um conceito abstrato e corresponde àquilo que foi modificado em uma estrutura; é a diferença entre a condição derivada e a primitiva."
+    },
+    {
+      "code":"11",
+			"name":"Carl Woese (1928-)",
+			"description":"Microbiologista americano que estuda bactérias e outras formas antigas de vida de maneira a entender a história primitiva da vida na Terra. Seu laboratório foi um dos primeiros a descobrir que o DNA de cloroplastos é relativamente não relacionado ao DNA do núcleo da célula da mesma planta, uma descoberta que apóia a hipótese de endosimbiose da Margulis."
+    },
+    {
+      "code":"12",
+			"name":"Carolus Linnaeus (1707-1778)",
+			"description":"Médico, naturalista e botânico sueco. Ele concebeu um sistema de classificação hierárquica que ele primeiramente aplicou a plantas e que posteriormente passou a incluir toda a vida. Esse sistema de classificação e seus nomes em latim foram tradicionais na biologia por séculos. Biólogos, entretanto, começaram recentemente a modificar o sistema para que reflita melhor o processo evolutivo, o qual Lineu não conhecia."
+    },
+    {
+      "code":"13",
+			"name":"Charles Darwin (1809-1882)",
+			"description":"Naturalista inglês que, juntamente com Alfred Russel Wallace, criou a teoria da evolução por seleção natural. A teoria de Darwin, cuidadosamente argumentada em A Origem das Espécies por meio da seleção natural (1859), foi tanto atacada quanto defendida após sua publicação, mas é hoje aceita como um dos pilares da biologia. Além da seleção natural, Darwin estudou e escreveu sobre um grande número de outros tópicos incluindo evolução humana, seleção sexual, recifes de corais, ilhas vulcânicas, orquídeas, cracas e movimento das plantas."
+    },
+    {
+      "code":"14",
+			"name":"Charles Lyell (1797-1875)",
+			"description":"Geólogo escocês que estudou as formações rochosas da Europa e dos EUA. No influente livro, Princípios da Geologia, Lyell usou suas observações para apoiar sua teoria de uniformitarismo, que argumentava que os processos que moldaram a Terra têm sido lentos, mas continuamente operantes ao longo da história e que, na verdade, ainda podem ser observados hoje. Apesar de Lyell ter argumentado que a Terra deveria ser muito antiga, ele aceitou a evolução apenas no fim de sua carreira. E até aí, negou que os seres humanos tenham evoluído."
+    },
+    {
+      "code":"15",
+			"name":"Charles Sibley (1917-1998)",
+			"description":"Ornitólogo americano pioneiro em utilização de técnicas moleculares para estudar relações evolutivas. Ele e Jon Ahlquist utilizaram hibridação DNA-DNA para ajudar a desvendar as relações entre diferentes espécies de aves e posteriormente aplicou a mesma técnica aos grandes primatas. Apesar de um pouco de sua metodologia ter sido contestada, o trabalho deles sugeriu que humanos e chimpanzés são os parentes mais próximos um do outro. Sibley estudou relações entre aves por toda sua carreira e seu trabalho mudou fundamentalmente a classificação das aves e nosso entendimento de sua evolução."
+    },
+    {
+      "code":"16",
+			"name":"Clado",
+			"description":"Um grupo de organismos que incluem todos os descendentes de um ancestral comum e esse ancestral. Por exemplo, aves, dinossauros, crocodilos e seus parentes extintos formam um clado. Esse é outro nome para grupo monofilético."
+    },
+    {
+      "code":"17",
+			"name":"Cladogênese",
+			"description":"É a fragmentação espacial em um ramo filético (conjunto de populações que apresentam efetivamente fluxo gênico) em dois ou mais ramos isolados. Apresenta isolamento geográfico). Envolve, via de regra, um evento de vicariância ou dispersão."
+    },
+    {
+      "code":"18",
+			"name":"Cladograma",
+			"description":"É um dendrograma que expressa relações filogenéticas apenas entre táxons terminais (espécies ou grupos supra-específicos), evidenciadas por caracteres derivados compartilhados – sinapomorfias."
+    },
+    {
+      "code":"19",
+			"name":"Classificação filogenética",
+			"description":"Um sistema de classificação que nomeia grupos de organismos de acordo com sua história evolutiva. A classificação filogenética nomeia apenas clados e não atribui ranques para níveis hierárquicos."
+    },
+    {
+      "code":"20",
+			"name":"Co-evolução",
+			"description":"Um processo no qual duas ou mais espécies diferentes afetam a evolução umas das outras reciprocamente. Por exemplo, a espécie A evolui, o que faz com que B evolua e que, por sua vez, faz com que A evolua e etc."
+    },
+    {
+      "code":"21",
+			"name":"Convergência",
+			"description":"Caso de homoplasia em que em dois grupos genealogicamente distintos as condições plesiomórficas são alteradas, resultando na mesma condição apomórfica final (casos de homonímia)."
+    },
+    {
+      "code":"22",
+			"name":"Deleção",
+			"description":"Uma mutação na qual ao menos um par de base é removido da sequência de DNA."
+    },
+    {
+      "code":"23",
+			"name":"Dendrograma",
+			"description":"Qualquer diagrama ramificado que conecta elementos."
+    },
+    {
+      "code":"24",
+			"name":"Deriva genética",
+			"description":"Alterações aleatórias nas frequências gênicas de uma população de geração para geração. Isso acontece como resultado de erro amostral – alguns genótipos acontecem de reproduzir mais que outros genótipos, não por serem \"melhores\", mas porque deram sorte. Esse processo faz com que as frequências gênicas em uma população variem através do tempo. Alguns genes podem até \"sumir\" de uma população (i.e., apenas por acaso, algum gene pode chegar a frequência zero). Em geral, deriva genética diminui a variação gênica em uma população."
+    },
+    {
+      "code":"25",
+			"name":"Descendência",
+			"description":"O processo pelo qual uma geração dá origem á próxima envolvendo herança de material genético. Uma geração descende da geração anterior. Similarmente, uma linhagem descende de alguma linhagem ancestral no sentido de que a linhagem existente hoje é a prole genética da ancestral (apesar de que você pode ter que procurar em muitas gerações para ver a relação)."
+    },
+    {
+      "code":"26",
+			"name":"DNA",
+			"description":"Ácido desoxirribonucléico, a molécula que carrega a informação genética de geração a geração."
+    },
+    {
+      "code":"27",
+			"name":"Efeito fundador",
+			"description":"Mudanças nas frequências gênicas que geralmente acompanham o início de uma nova população a partir de um pequeno número de indivíduos. É provável que a nova população tenha frequências gênicas bem diferentes das da população original por causa de erro amostral (i.e. deriva genética). É também provável que a nova população tenha menos variação genética que a população original."
+    },
+    {
+      "code":"28",
+			"name":"Endêmico",
+			"description":"Organismo nativo de uma área particular, restrita e encontrado apenas nesse local."
+    },
+    {
+      "code":"29",
+			"name":"Endogamia",
+			"description":"Cruzamento entre parentes. Tecnicamente, isso é definido como um padrão de cruzamento onde os parceiros são mais intimamente relacionados do que dois indivíduos selecionados aleatoriamente da população."
+    },
+    {
+      "code":"30",
+			"name":"Equilíbrio pontuado",
+			"description":"Hipótese que sugere que muito da história evolutiva é caracterizada por períodos de estase, pontuados por alterações de características relativamente rápidas conforme uma linhagem se divide. Evidências fósseis disponíveis têm destacado muitas linhagens que parecem seguir esse padrão de evolução. Clique aqui para ver esses exemplos e uma descrição completa das hipóteses dos processos que estão sujeitos a esse padrão."
+    },
+    {
+      "code":"31",
+			"name":"Ernst Haeckel (1834-1919)",
+			"description":"Naturalista e evolucionista alemão, famoso por suas não-completamente-corretas \"Leis fiogenéticas\". As leis sugeriam que, conforme um organismo se desenvolve, ele inevitavelmente passa por estágios correspondentes a seus antecessores evolutivos. Haeckal também realizou pesquisas importantes sobre zoologia de invertebrados e foi um dos primeiros cientistas a tentar reconstruir a filogenia de todos os animais. Haeckal acreditava no Darwinismo social e na superioridade evolutiva de sua própria raça."
+    },
+    {
+      "code":"32",
+			"name":"Especiação",
+			"description":"O processo pelo qual as espécies se formam. Isso envolve o isolamento reprodutivo de diferentes partes de uma espécie ancestral para que haja formação de espécies descendentes distintas."
+    },
+    {
+      "code":"33",
+			"name":"Especiação alopátrica",
+			"description":"Processo de especiação que depende de uma barreira externa ao fluxo gênico (como, por exemplo, isolamento geográfico) para começar ou completar-se."
+    },
+    {
+      "code":"34",
+			"name":"Especiação parapátrica",
+			"description":"Especiação dentro de uma população com uma distribuição contínua onde os organismos dentro dessa população não acasalam aleatoriamente (e são mais provável de acasalarem com aqueles que estão próximos a eles), mas que ainda constituem uma única piscina gênica."
+    },
+    {
+      "code":"35",
+			"name":"Especiação simpátrica",
+			"description":"É especiação dentro de uma população que acasale arbitrariamente. É normalmente pensado ser uma forma rara de especiação porque o acasalamento aleatório tende a diminuir as diferenças genéticas entre as espécies."
+    },
+    {
+      "code":"36",
+			"name":"Espécies",
+			"description":"Membros de populações que realmente ou potencialmente acasalam entre si (o conceito biológico). Nesse sentido, uma espécie é a maior piscina gênica possível sob condições naturais. Veja também conceito de reconhecimento de espécies, conceito fenético de espécies, e conceito filogenético de espécies para outras definições de espécies."
+    },
+    {
+      "code":"37",
+			"name":"Estado de caráter",
+			"description":"Uma das possíveis variações que um caractere pode ter. Por exemplo, o caractere \"cor da asa\" pode ter os estados de caráter \"verde\" ou \"marrom\". Um caractere molecular (uma posição em especial no DNA de um organismo) pode ter os estados de caráter A, T, C ou G."
+    },
+    {
+      "code":"38",
+			"name":"Estase",
+			"description":"É a falta de mudanças evolutivas substanciais. Se uma linhagem não mudou muito, diversificou ou sofreu extinção por um longo período de tempo, podemos dizer que esta passando por estase. A hipótese do equilíbrio pontuado prevê que as linhagens irão sofrer longos períodos de estase pontuados por curtos períodos de especiação e alterações evolutivas."
+    },
+    {
+      "code":"39",
+			"name":"Estratégia de história de vida",
+			"description":"Amplos padrões na forma como um grupo de organismos sobrevivem e deixam descendentes na próxima geração. Por exemplo, organismos que alocam recursos para produção de poucos descendentes com alta qualidade e organismos que os alocam para produção de muitos descendentes, cada qual com poucas chances de sobrevivência, possuem estratégias."
+    },
+    {
+      "code":"40",
+			"name":"Estrutura",
+			"description":"Qualquer parte do corpo, qualquer expressão fenotípica com base genética, ou qualquer porção do DNA, como um <i>locus</i> gênico, por exemplo."
+    },
+    {
+      "code":"41",
+			"name":"Estrutura vestigial",
+			"description":"Uma característica que um organismo herdou de seu ancestral, mas que não possui função e que é geralmente menos elaborada do que no ancestral. Normalmente, estruturas vestigiais são formadas quando uma linhagem sofre um conjunto diferente de pressões seletivas das de seu ancestral e a seleção para manter a elaboração e funcionalidade da característica acaba."
+    },
+    {
+      "code":"42",
+			"name":"Evolução",
+			"description":"Evolução, em suma, é descendência com modificação. Essa definição engloba evolução em menor escala (alterações na frequência gênica em uma população de uma geração para a seguinte) e em larga escala (a descendência de diferentes espécies a partir de um ancestral comum ao longo de várias gerações)."
+    },
+    {
+      "code":"43",
+			"name":"Evolução convergente",
+			"description":"É a evolução independente de estruturas semelhantes em espécies, geralmente devidas a estilos de vida e pressões seletivas similares."
+    },
+    {
+      "code":"44",
+			"name":"Extinção",
+			"description":"Evento no qual os últimos membros de uma linhagem, clado ou espécie morrem. Uma espécie pode ser extinta quando todos os seus membros morrem. Ou ainda, um clado inteiro pode ser extinto quando todas as espécies que o compõe se extinguem."
+    },
+    {
+      "code":"45",
+			"name":"Extinção de fundo",
+			"description":"É a extinção que as linhagens tem \"normalmente\" lidado através da história da vida. Mesmo quando a Terra não está passando por uma grande catástrofe, linhagens estão constantemente entrando em extinção – e isso é extinção de fundo. Curtos períodos (normalmente associados a mudanças geológicas ou climáticas grandiosas) nos quais as taxas de extinção foram elevadas entre muitas linhagens são chamados de \"extinções em massa\" e não fazem parte da extinção de fundo."
+    },
+    {
+      "code":"46",
+			"name":"Extinção em massa",
+			"description":"Evento no qual muitas linhagens diferentes se extinguem ao mesmo tempo. Extinções em massa envolvem taxas de extinção mais altas que as usuais taxas de extinção de fundo, que esta operando o tempo todo."
+    },
+    {
+      "code":"47",
+			"name":"Filogenia",
+			"description":"Os relacionamentos evolutivos entre os organismos; os padrões de ramificação das linhagens produzidos pela verdadeira história evolutiva dos organismos a serem considerados. Muitas das filogenias encontradas são \"árvores de família\" de grupos com espécies intimamente relacionadas, mas podemos também usar uma filogenia para descrever as relações entre todas as formas de vida."
+    },
+    {
+      "code":"48",
+			"name":"Filogenética",
+			"description":"A área da biologia que lida com os relacionamentos entre organismos. Ela inclui a descoberta dessas relações e o estudo das causas por detrás desse padrão."
+    },
+    {
+      "code":"49",
+			"name":"Fluxo gênico",
+			"description":"É o movimento de genes entre populações. Isso pode ocorrer através da migração de organismos ou pelo movimento de gametas (como, por exemplo, o pólen sendo soprado para um novo local)."
+    },
+    {
+      "code":"50",
+			"name":"Fonte hidrotermal",
+			"description":"Uma fenda no fundo do oceano de onde sai água quente. Alguns cientistas acreditam na hipótese de a vida na Terra ter se originado perto de uma fonte hidrotermal."
+    },
+    {
+      "code":"51",
+			"name":"Formas intermediárias",
+			"description":"Uma adaptação parcialmente montada. Adaptações complexas evoluem em séries de pequenos passos e esses passos ao longo da história de uma adaptação são chamados de formas intermediárias."
+    },
+    {
+      "code":"52",
+			"name":"Formas transitórias",
+			"description":"São fósseis ou organismos que apresentam a transformação de uma forma ancestral a de uma espécie descendente. Por exemplo, há um registro fóssil bem documentado de formas transitórias para a evolução de baleias a partir de seu ancestral anfíbio."
+    },
+    {
+      "code":"53",
+			"name":"Fóssil",
+			"description":"Qualquer traço de uma criatura viva (corpo, parte do corpo, abrigo, pegada, etc) preservado ao longo do tempo geológico."
+    },
+    {
+      "code":"54",
+			"name":"Fóssil vivo",
+			"description":"Uma espécie existente que parece ser muito similar ao seu ancestral fóssil. Fósseis vivos vivenciaram estase morfológica – isto é, eles mudaram muito pouco morfologicamente, apesar da possibilidade de seu DNA ter evoluído substancialmente. O exemplo clássico de um fóssil vivo é o celacanto. Os celacantos modernos parecem ser extremamente similares aos seus ancestrais de 80 milhões de anos, conhecidos pelo registro fóssil."
+    },
+    {
+      "code":"55",
+			"name":"Frequência gênica",
+			"description":"(Também chamada de frequência de alelos) é a proporção de genes/alelos em uma população de certo tipo. Por exemplo, em um certo <i>locus</i>, ervilhas podem ter o gene \"amarelo\" ou \"verde\" – portanto, uma população de ervilhas teria a frequência de alelos \"amarelo\" variando de zero a um (100%)."
+    },
+    {
+      "code":"56",
+			"name":"Gene",
+			"description":"A unidade da hereditariedade. Geralmente, significa uma região do DNA com um efeito fenotípico particular. Tecnicamente, pode significar um trecho de DNA que inclui uma região transcrita e reguladora."
+    },
+    {
+      "code":"57",
+			"name":"GenesHox",
+			"description":"Genes ativos no desenvolvimento de todos os animais que regulam outros genes. Apesar de realizarem funções diferentes em organismos diferentes, eles são muito importantes na disposição do plano de corpo do organismo. Por exemplo, eles ajudam a organizar a diferenciação da cabeça aos pés tanto em insetos quanto vertebrados."
+    },
+    {
+      "code":"58",
+			"name":"Gene regulatório",
+			"description":"Um gene que controla quando proteínas codificadoras de genes são ligadas ou desligadas."
+    },
+    {
+      "code":"59",
+			"name":"Genoma",
+			"description":"Toda a informação genética que um organismo carrega."
+    },
+    {
+      "code":"60",
+			"name":"Genótipo",
+			"description":"O conjunto de genes que um organismo tem. Algumas vezes \"genótipo\" se refere a todo o genoma de um organismo e, em outras, refere-se aos alelos carregados em um <i>locus</i> em particular."
+    },
+    {
+      "code":"61",
+			"name":"Gradualismo filético",
+			"description":"A evolução lenta e gradual de uma linhagem com ou sem divisão de linhagem. Se, por exemplo, dois táxons irmãos estavam evoluindo de acordo com o gradualismo filético, eles iriam devagar e gradualmente evoluir em direções diferentes. Há casos bem documentados nos quais linhagens evoluem dessa maneira."
+    },
+    {
+      "code":"62",
+			"name":"Grupo-irmão",
+			"description":"É o grupo monofilético mais próximo do grupo em estudo."
+    },
+    {
+      "code":"63",
+			"name":"Grupo monofilético",
+			"description":"Um conjunto de táxons incluindo um ancestral e todos os seus descendentes, ou ainda, grupo que compartilha um ancestral comum exclusivo. Obs.: o ancestral pode ou não ser reconhecido."
+    },
+    {
+      "code":"64",
+			"name":"Grupo parafilético",
+			"description":"Táxons cujos caracteres diagnósticos são primitivos (plesiomorfias); são grupos merofiléticos que resultam da exclusão de um ou mais grupos monofiléticos do menor grupo monofilético do qual fazem parte."
+    },
+    {
+      "code":"65",
+			"name":"Grupo polifilético",
+			"description":"Táxons cujos caracteres diagnósticos são homoplásicos; são grupos merofiléticos que resultam da exclusão de pelo menos um grupo parafilético do menor grupo monofilético do qual fazem parte."
+    },
+    {
+      "code":"66",
+			"name":"Heterocronia",
+			"description":"Uma alteração evolutiva no tempo de um evento de desenvolvimento. Por exemplo, comparando com o ancestral da linhagem, a maturação prematura de órgãos sexuais é um exemplo de heterocronia."
+    },
+    {
+      "code":"67",
+			"name":"Hibridação",
+			"description":"A produção de descendentes a partir de formas parentais diferentes. Por exemplo, se duas espécies reconhecidamente diferentes de plantas fertilizarem uma a outra e produzirem prole viável e fértil, o processo será chamado de hibridação."
+    },
+    {
+      "code":"68",
+			"name":"Hipótese",
+			"description":"Conceito ou ideia que pode potencialmente ser desmentido com evidências. Se uma sentença não pode ser comprovada falsa através de resultados experimentais, observações ou algum outro meio, então não é uma hipótese científica."
+    },
+    {
+      "code":"69",
+			"name":"Homólogo",
+			"description":"Herdado de um ancestral comum. Os olhos de ratos e de humanos são homólogos porque ambos herdamos a estrutura de nosso ancestral comum, que também tinha o mesmo tipo de olhos."
+    },
+    {
+      "code":"70",
+			"name":"Homoplasia",
+			"description":"Similar mas não por herança de um ancestral comum. Características com homoplasia podem ser explicadas por evolução convergente em dois organismos diferentes ou por reversão de caracteres."
+    },
+    {
+      "code":"71",
+			"name":"Thomas Henry Huxley (1825-1895)",
+			"description":"Biólogo inglês que realizou contribuições para a paleontologia e anatomia comparativa, mas que é melhor conhecido por defender as visões evolutivas de Darwin de ataques religiosos; ele cunhou o termo “agnóstico” para descrever suas próprias visões religiosas. Huxley foi também defensor da evolução humana e enfrentou oponentes que argumentavam que seres humanos não poderiam ter evoluído de macacos."
+    },
+    {
+      "code":"72",
+			"name":"Índice de consistência",
+			"description":"Mensuração do número de eventos homoplásicos para um determinado caráter ou para um determinado cladograma. É sempre um número maior que zero e menor ou igual a 1 e que será tanto menor quanto maior for o número de eventos homoplásicos no cladograma."
+    },
+    {
+      "code":"73",
+			"name":"JBS Haldane (1892-1964)",
+			"description":"Biólogo e geneticista de populações britânico-índio cujo trabalho ajudou a mostrar que a evolução por seleção natural é compatível com nossa compreensão da genética. Haldane também ajudou a mapear o cromossomo X e fez as primeiras estimativas das taxas de mutações humanas. Comunista e ateu proclamado, Haldane escreveu sobre as responsabilidades sociais dos cientistas e adotou nacionalidade indiana em 1957."
+    },
+    {
+      "code":"74",
+			"name":"Jean-Baptiste de Lamarck (1744-1829)",
+			"description":"Naturalista francês que propôs uma primitiva teoria da evolução. Sua teoria incluía a ideia evolutiva crítica de que novas espécies podem evoluir de outras espécies através do tempo. Entretanto, os mecanismos de sua teoria, a qual incluiu a herança de caracteres adquiridos e um direcionamento à complexidade intrínseco, tem sido amplamente rejeitados pela ciência moderna. A teoria de Lamarck também negava que espécies poderiam ser extintas e argumentava que espécies fósseis não encontradas com vida hoje, eram apenas ancestrais de espécies modernas."
+    },
+    {
+      "code":"75",
+			"name":"Letal",
+			"description":"Uma mutação que resulta na morte prematura do organismo, feto ou zigoto que a carregue. Organismos com mutações letais nunca reproduzem e quando o fazem, não transmitem a mutação para nenhum descendente."
+    },
+    {
+      "code":"76",
+			"name":"<i>Locus</i>",
+			"description":"O local no DNA onde o gene está localizado. Por exemplo, o <i>locus</i> da cor da ervilha é o local no DNA da planta que determina qual será a cor da ervilha. O <i>locus</i> da cor da ervilha pode conter DNA que confere a cor amarela ou que faz as ervilhas serem verdes – esses são chamados de alelos amarelos e verdes."
+    },
+    {
+      "code":"77",
+			"name":"\"Lucy\"",
+			"description":"O nome dado a uma fêmea hominídeo em particular (da espécie <i>Australopithecus afarensis</i>) que viveu onde hoje é a Etiópia há cerca de três milhões de anos. \"Lucy\" é famosa porque deixou para trás um esqueleto fossilizado bem completo, encontrado em 1974."
+    },
+    {
+      "code":"78",
+      "name":"\"Luzia\"",
+      "description":"É o fóssil humano mais antigo encontrado na América do Sul. Em 2018, o fóssil foi queimado e quase destruído no incêndio que atingiu o Museu Nacional no Rio de Janeiro."
+    },
+    {
+      "code":"79",
+			"name":"Macroevolução",
+			"description":"Evolução acima do nível de espécies. A radiação adaptativa de uma linhagem em muitos nichos diferentes é um exemplo de macroevolução. Como alterações evolutivas acima do nível de espécies significam que populações e espécies devem estar evoluindo, alterações macroevolutivas implica em alterações microevolutivas."
+    },
+    {
+      "code":"80",
+			"name":"Microevolução",
+			"description":"Evolução dentro de uma espécie ou população. Um aumento em uma frequência gênica específica em uma população, devida a seleção natural, é um exemplo de microevolução."
+    },
+    {
+      "code":"81",
+			"name":"Movimento de design inteligente",
+			"description":"O movimento de design inteligente [intelligent design (ID) movement] promove a ideia de que muitos aspectos da vida são muito complexos para ter evoluído sem intervenção de um ser supernatural – o designer inteligente. Exatamente porque se baseia em explicações supernaturais, ID não é ciência."
+    },
+    {
+      "code":"82",
+			"name":"Mutação",
+			"description":"Uma alteração em uma sequência de DNA, normalmente ocorrendo por causa de erros na replicação ou reparo. Mutação é a fonte principal de variação genética. Alterações na composição do genoma devido somente a recombinação não são consideradas mutações já que a recombinação sozinha muda apenas quais são os genes que estão unidos no mesmo genoma, mas não altera a sequência desses genes."
+    },
+    {
+      "code":"83",
+			"name":"Mutação germinativa",
+			"description":"Uma mutação que ocorre nas células reprodutivas e acaba sendo carregada pelos gametas (ex.: óvulos e espermatozóides)."
+    },
+    {
+      "code":"84",
+			"name":"Mutação silenciosa",
+			"description":"Uma mutação que não altera a sequência de aminoácidos da proteína produzida."
+    },
+    {
+      "code":"85",
+			"name":"Mutações somáticas",
+			"description":"Mutações ocorrendo em células que não formam gametas e que acabam não sendo carregadas por óvulos e espermatozóides. Por exemplo, mutações de pele, músculo ou tecido do fígado são mutações somáticas."
+    },
+    {
+      "code":"86",
+			"name":"Mutualismo",
+			"description":"Uma interação de espécies na qual ambas as espécies participantes lucram da interação."
+    },
+    {
+      "code":"87",
+			"name":"Nó",
+			"description":"Um ponto em uma filogenia onde uma única linhagem ancestral se divide em duas ou mais linhagens descendentes."
+    },
+    {
+      "code":"88",
+			"name":"Otimização",
+			"description":"Procedimento de encontrar o melhor cladograma possível para um determinado número de caracteres."
+    },
+    {
+      "code":"89",
+			"name":"Out-Group (=Grupo-Externo)",
+			"description":"Grupo utilizado na comparação com o grupo que está se analisando e que traz a informação dos caracteres primitivos (plesiomórficos). Em teoria todos os seres vivos pertencem ao grupo externo, mas na prática é possível delimitar com maior precisão devido ao conhecimento prévio do sistemata."
+    },
+    {
+      "code":"90",
+			"name":"Paralelismo",
+			"description":"Caso de homoplasia em que, uma mesma condição plesiomórfica é alterada de modo idêntico, em dois grupos distintos, produzindo neles uma condição apomórfica semelhante."
+    },
+    {
+      "code":"91",
+			"name":"Parcimônia",
+			"description":"Solução para o conflito de caracteres baseada na economia das hipóteses propostas na evolução do grupo em questão. Conseqüentemente, cladogramas que admitem o menor número de eventos de surgimento de caracteres apomórficos (passos no cladograma) são mais aceitáveis do que outros que admitem um maior número de eventos. A parcimônia eleva o valor do I. C."
+    },
+    {
+      "code":"92",
+			"name":"Plesiomorfia (primitivo)",
+			"description":"A condição pré-existente de uma estrutura que foi alterada resultando em uma condição nova."
+    },
+    {
+      "code":"93",
+			"name":"Polarização",
+			"description":"Orientação da direção da evolução, ou seja, dizer qual caráter é primitivo e qual é derivado."
+    },
+    {
+      "code":"94",
+			"name":"Politomia",
+			"description":"Ausência de conhecimento acerca das relações filogenéticas entre os táxons terminais."
+    },
+    {
+      "code":"95",
+			"name":"População",
+			"description":"Geralmente, um grupo de organismos vivendo próximos que cruzam entre si e não acasalam com outros grupos similares; uma piscina genética. Dependendo do organismo, populações podem ocupar regiões maiores ou menores."
+    },
+    {
+      "code":"96",
+			"name":"Proteína",
+			"description":"Uma molécula composta por uma cadeia de aminoácidos. Proteínas são codificadas pelo DNA e são essenciais para a vida."
+    },
+    {
+      "code":"97",
+			"name":"Recombinação",
+			"description":"Um processo no qual pares de cromossomos trocam DNA entre si. Isso acontece durante a formação de gametas. Uma única célula parental (contendo dois conjuntos de cromossomos) irá formar quatro células filhas (com um conjunto completo de cromossomos cada uma). No processo de formação dessas células filhas, a recombinação acontece para que os cromossomos que as células filhas irão possuir sejam \"mosaicos\", compostos de partes diferentes dos cromossomos da célula parental. Recombinação é importante para a evolução porque traz novas combinações de genes – uma fonte de variação para a seleção natural agir sobre."
+    },
+    {
+      "code":"98",
+			"name":"Reversão ou Pseudo-Simplesiomorfia",
+			"description":"Quando uma característica arqueomórfica (sinapomórfica para um nível mais abrangente) sofre uma apomorfia que resulta em uma forma final semelhante à plesiomórfica original."
+    },
+    {
+      "code":"99",
+			"name":"RNA",
+			"description":"Ácido ribonucléico, uma molécula similar ao DNA envolvida em carregar informação e produzir proteínas nas células. Alguns vírus carregam RNA como seu material genético ao invés de DNA."
+    },
+    {
+      "code":"100",
+			"name":"Segregação",
+			"description":"O processo no qual pares de cromossomos separam-se e são transmitidos a diferentes células gaméticas filhas. Quando os gametas são formados, uma única célula parental (contendo dois conjuntos de cromossomos) irá formar quatro células filhas (cada uma com um conjunto completo de cromossomos). No processo, os cromossomos pareados da célula parental separam-se em duas células filhas diferentes."
+    },
+    {
+      "code":"101",
+			"name":"Seleção artificial",
+			"description":"Um processo no qual seres humanos conscientemente selecionam, a favor ou contra, certas características nos organismos. Por exemplo, o humano pode permitir a reprodução apenas dos organismos com a característica desejada ou pode prover mais recursos aos organismos com a dita característica. Esse processo causa alteração evolutiva no organismo e é análogo a seleção natural, porém com humanos, e não a natureza, fazendo a seleção."
+    },
+    {
+      "code":"102",
+			"name":"Seleção natural",
+			"description":"Um processo no qual alguns indivíduos têm traços genéticos que aumentam chances de sobrevivência ou reprodução e que, portanto, tem mais descendentes chegando a idade reprodutiva do que outros indivíduos. Justamente porque a prole também carrega os genes para esse traço, esse processo faz com que genes para traços vantajosos se tornem mais comuns nas populações do que os genes para traços desvantajosos."
+    },
+    {
+      "code":"103",
+			"name":"Seleção sexual",
+			"description":"Seleção agindo na habilidade de um organismo de obter ou copular com um parceiro. Esse processo pode produzir traços que parecem diminuir a probabilidade de sobrevivência de um organismo, enquanto aumenta as chances de cópula."
+    },
+    {
+      "code":"104",
+			"name":"Série de transformação",
+			"description":"É a seqüência linear de modificações que uma determinada estrutura sofreu, tornando-se sucessivamente mais derivada (obs.: a transformação é linear, a evolução como um todo, nunca é)."
+    },
+    {
+      "code":"105",
+			"name":"Simplesiomorfia e sinapomorfia",
+			"description":"Compartilhamento dos estados plesiomórficos e apomórficos, por grupos taxonômicos. Diz-se que um determinado caráter é simplesiomórfico para um determinado grupo, ou sinapomórfico para um determinado grupo. De outra maneira, diz-se que um caráter é uma sinapomorfia ou simplesiomorfia de um grupo."
+    },
+    {
+      "code":"106",
+			"name":"Sistema de classificação Lineano",
+			"description":"O sistema de classificação padrão no qual é designado um reino, filo, classe, ordem, família, gênero e espécie a cada organismo. Esse sistema agrupa os organismos em grupos cada vez menores (como uma série de caixas dentro de caixas, chamado hierarquia aninhada)."
+    },
+    {
+      "code":"107",
+			"name":"Stephen Jay Gould (1941-2002)",
+			"description":"Paleontólogo norte-americano mais conhecido por suas contribuições teóricas para a teoria da evolução. Entre outras contribuições, ele propôs conjuntamente a hipótese do equilíbrio pontuado, voltou a atenção de biólogos para o papel das alterações de desenvolvimento na evolução e encorajou biólogos a olhar além da seleção natural na busca por explicações evolutivas. Gould foi ativista contra o racismo pseudo-científico e à insinuação do ensino de criacionismo nas escolas públicas. Suas premiadas obras científicas chamaram a atenção do público e ajudou a popularizar a biologia evolutiva."
+    },
+    {
+      "code":"108",
+			"name":"Táxon",
+			"description":"Um grupo de organismos nomeado, como mamíferos ou hominídeos. Na classificação filogenética, todos os táxons são clados – isto é, eles são grupos monofiléticos, e nomeados, de organismos."
+    },
+    {
+      "code":"109",
+			"name":"Táxon terminal",
+			"description":"Qualquer classe cujos elementos são organismos biológicos e cuja definição é alguma semelhança entre seus membros. Obs.: cladogramas são expressões das relações filogenéticas entre táxons distintos, não obrigatoriamente do mesmo ranking taxonômico."
+    },
+    {
+      "code":"110",
+			"name":"Tetrápodes",
+			"description":"O clado animal que contém vertebrados com patas resistentes (como oposto das barbatanas)."
+    },
+    {
+      "code":"111",
+			"name":"Theodosius Dobzhansky (1900-1975)",
+			"description":"Geneticista ucrano-americano cujos estudos da genética da mosca da fruta mostraram – contrariando a opinião científica da época – que as populações estavam longe da uniformidade genética. Dobzhansky também idealizou como o isolamento reprodutivo pode transformar uma população geneticamente variável em duas espécies diferentes. É também atribuído a Dobzhansky a célebre observação \"Nada na biologia faz sentido exceto a luz da evolução\"."
+    },
+    {
+      "code":"112",
+			"name":"Variação genética",
+			"description":"Sem muito rigor, é a medida das diferenças genéticas que existem em populações ou espécies. Por exemplo, pode-se dizer que uma população com muitos alelos diferentes em um <i>locus</i> possui grande variação gênica nesse <i>locus</i>. Variação genética é essencial para que a seleção natural atue, já que a seleção pode apenas aumentar ou diminuir as frequências de alelos já presentes na população."
+    },
+    {
+      "code":"113",
+			"name":"Willi Hennig (1913-1976)",
+			"description":"Entomólogo alemão que em 1950 publicou um livro que mudaria para sempre a forma como organizamos a diversidade biológica. Ele criou o método de inferência filogenética, que começou a ser discutido na academia após a tradução do primeiro livro do alemão para o inglês, em 1966."
+    }
+  ]
+}

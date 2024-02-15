@@ -1,0 +1,5191 @@
+{
+	"games":[
+		{
+			"code":"1",
+			"name":"Teorias Evolutivas",
+			"description":"Darwin",
+      		"color1":"#f5bb6f",
+			"color2": "#f4c588",
+			"width": 130,
+			"height": 200,
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"Assinale a afirmação que corresponde à teoria de Darwin:",
+					"options":[
+						{
+							"code":"1",
+							"description":"As mudanças evolutivas dos seres vivos ocorrem em um padrão a partir de um ancestral comum"
+						},
+						{
+							"code":"2",
+							"description":"A teoria da evolução por seleção natural explica mudanças e adaptações evolutivas"
+						},
+						{
+							"code":"3",
+							"description":"Darwin utilizou a herança mendeliana e a seleção para fundamentar sua teoria"
+						},
+						{
+							"code":"4",
+							"description":"Ao longo do tempo, as espécies transformam-se em outras espécies, selecionadas através da seleção natural"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"2",
+					"description":"O fixismo e o evolucionismo foram correntes de pensamento utilizadas para explicar a diversidade das espécies. Sobre essas correntes, é correto afirmar que:",
+					"options":[
+						{
+							"code":"1",
+							"description":"O fixismo considera que as diferentes espécies são permanentes, perfeitas e mutáveis e que foram originadas, independentemente, umas das outras"
+						},
+						{
+							"code":"2",
+							"description":"A geração espontânea, ou abiogênese, é uma corrente do evolucionismo que acredita na criação dos seres vivos a partir da matéria inanimada"
+						},
+						{
+							"code":"3",
+							"description":"Para o evolucionismo, as espécies atuais são o resultado de lentas e sucessivas transformações sofridas pelas espécies do passado, ao longo dos tempos"
+						},
+						{
+							"code":"4",
+							"description":"O criacionismo considera que os seres vivos foram criados por ação divina, portanto, são perfeitos e instáveis ao longo do tempo"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"3",
+					"description":"Uma característica adaptativa que permite a sobrevivência de uma espécie vegetal em manguezais é:",
+					"description_2": "Durante a história evolutiva das plantas, diversas pressões seletivas do meio ambiente promoveram adaptações estruturais ou funcionais, que favoreceram a sobrevivência e a reprodução desse grupo nos mais distintos ecossistemas.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Raíz aérea"
+						},
+						{
+							"code":"2",
+							"description":"Fruto carnoso"
+						},
+						{
+							"code":"3",
+							"description":"Caule espesso"
+						},
+						{
+							"code":"4",
+							"description":"Folha com espinho"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"4",
+					"description":"Analise as afirmativas:\nI - A seleção natural acarreta em uma melhoria dos organismos ao longo dos anos;\nII - Seleção natural é o resultado simples da variação, reprodução diferencial e hereditariedade;\nIII - Considerar a seleção natural como um processo aleatório, é um equívoco;",
+					"options":[
+						{
+							"code":"1",
+							"description":"I, II e III estão corretas"
+						},
+						{
+							"code":"2",
+							"description":"II e III estão corretas"
+						},
+						{
+							"code":"3",
+							"description":"Apenas a I"
+						},
+						{
+							"code":"4",
+							"description":"I e III estão corretas"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"5",
+					"description":"A seleção natural pode agir sobre a diversidade das populações de maneiras diferentes. Numa delas, as condições do ambiente favorecem um fenótipo extremo, diferente do que representa a média da população. Esta forma de seleção é denominada:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Estabilizadora"
+						},
+						{
+							"code":"2",
+							"description":"Disruptiva"
+						},
+						{
+							"code":"3",
+							"description":"Sexual"
+						},
+						{
+							"code":"4",
+							"description":"Direcional"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"6",
+					"description":"O temor da população em relação aos radioisótopos relaciona-se à capacidade desses elementos produzirem mutações nos seres vivos. No entanto, as mutações ocorrem naturalmente e têm uma grande importância evolutiva porque:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Geram a variabilidade sobre a qual a seleção natural pode agir"
+						},
+						{
+							"code":"2",
+							"description":"Geram as adaptações, que permitem a sobrevivência das espécies"
+						},
+						{
+							"code":"3",
+							"description":"Permitem a origem de novas espécies cada vez melhor adaptadas"
+						},
+						{
+							"code":"4",
+							"description":"São responsáveis por extinções em massa, como a dos trilobitas"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"7",
+					"description":"Essa alteração (Clique em ?) na sequência de DNA e a eliminação do indivíduo são fenômenos que podem ser explicados pela ocorrência, respectivamente, de:",
+					"description_2": "Durante o processo evolutivo, a sobrevivência dos indivíduos de uma determinada espécie depende da estabilidade genética.",
+					"description_3": "Entretanto, pode ocorrer uma alteração permanente numa sequência de DNA, capaz de destruir um organismo.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Especiação e ortogênese"
+						},
+						{
+							"code":"2",
+							"description":"Mutação e seleção natural"
+						},
+						{
+							"code":"3",
+							"description":"Oscilação genética e epigênese"
+						},
+						{
+							"code":"4",
+							"description":"Variação hereditária e isolamento ecológico"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"8",
+					"description":"A evolução das espécies é corroborada por:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Existência de um código genético universal"
+						},
+						{
+							"code":"2",
+							"description":"Datação de carbono 14 nos esqueletos de organismos atuais"
+						},
+						{
+							"code":"3",
+							"description":"Existência de órgãos diferentes realizando a mesma função em espécies distintas"
+						},
+						{
+							"code":"4",
+							"description":"Relatos milenares sobre seres que não existem atualmente"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"9",
+					"description":"Frente às mudanças que ocorrem em um determinado ambiente, têm maior sucesso adaptativo as espécies:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Com maior variabilidade genética"
+						},
+						{
+							"code":"2",
+							"description":"Com menor variabilidade genética"
+						},
+						{
+							"code":"3",
+							"description":"Que não apresentam nenhuma variabilidade genéticas"
+						},
+						{
+							"code":"4",
+							"description":"Que não respondem às alterações no meio ambiente"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"10",
+					"description":"Alterações climáticas, como as provocadas pelo \"El Niño\", mudam as condições de vida, antecipando floradas, estimulando a reprodução de diferentes espécies e etc.\nSegundo a Teoria Sintética, o conceito que explica a interferência dessas alterações no processo evolutivo é:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Mutação"
+						},
+						{
+							"code":"2",
+							"description":"Uso e desuso"
+						},
+						{
+							"code":"3",
+							"description":"Seleção natural"
+						},
+						{
+							"code":"4",
+							"description":"Caráter adquirido"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"11",
+					"description":"Nas regiões industrializadas da Inglaterra, as populações de mariposas Biston betularia de cor clara foram substituídas gradativamente por outras de cor escura, a partir de 1900. Esse relato constitui um exemplo clássico de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Competição"
+						},
+						{
+							"code":"2",
+							"description":"Recapitulação"
+						},
+						{
+							"code":"3",
+							"description":"Seleção natural"
+						},
+						{
+							"code":"4",
+							"description":"Convergência adaptativa"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"12",
+					"description":"Existem duas grandes teorias (Clique em ?) que tentam explicar os mecanismos pelos quais os organismos evoluíram e continuam a evoluir. Este fator é:",
+					"description_2": "Tanto Lamarck como Darwin apresentam um fator primordial para a evolução. A diferença é que, para Lamarck, este fator é a causa direta das variações e, para Darwin, este mesmo fator seria o que seleciona, dentre as variações possíveis, a mais adaptada.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"O ambiente"
+						},
+						{
+							"code":"2",
+							"description":"A grande capacidade de reprodução"
+						},
+						{
+							"code":"3",
+							"description":"A competição"
+						},
+						{
+							"code":"4",
+							"description":"A variação hereditária transmissível"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"13",
+					"description":"O emprego maciço dos inseticidas sintéticos tem provocado o aparecimento de indivíduos resistentes ao veneno. Em 1964, havia pelo menos 140 espécies que tinham adquirido resistência aos vários inseticidas, das quais 80 eram vetores de doenças, como os anófeles. Essa resistência ocorre porque os inseticidas:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Provocam mutações nas células somáticas, quando incorporados pelo ser vivo"
+						},
+						{
+							"code":"2",
+							"description":"Selecionam os indivíduos, preservando os mais resistentes, que irão originar outras gerações resistentes"
+						},
+						{
+							"code":"3",
+							"description":"Provocam uma adaptação dos indivíduos, por meio do desenvolvimento de defesa imunológica contra o inseticida"
+						},
+						{
+							"code":"4",
+							"description":"Somente são absorvidos por indivíduos geneticamente modificados em laboratório"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"14",
+					"description":"\"A girafa desenvolveu um pescoço longo para facilitar a apreensão das folhas das arvores\".\nA afirmativa acima: ",
+					"options":[
+						{
+							"code":"1",
+							"description":"Caracteriza somente a teoria de Darwin"
+						},
+						{
+							"code":"2",
+							"description":"Caracteriza somente a teoria de Lamarck"
+						},
+						{
+							"code":"3",
+							"description":"Caracteriza as teorias de Lamarck e Darwin"
+						},
+						{
+							"code":"4",
+							"description":"Não caracteriza as teorias de Lamarck e nem de Darwin"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"15",
+					"description":"São mecanismos responsáveis pelo aumento da variabilidade genética dos organismos:",
+					"options":[
+						{
+							"code":"1",
+							"description":"A mutação, a seleção natural e a partenogênese"
+						},
+						{
+							"code":"2",
+							"description":"A mutação, a autogamia e a recombinação gênica"
+						},
+						{
+							"code":"3",
+							"description":"A mutação, a segregação independente dos cromossomos e a recombinação gênica"
+						},
+						{
+							"code":"4",
+							"description":"A seleção natural, a segregação independente dos cromossomos e a autogamia"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"16",
+					"description":"São ideias darwinistas, exceto:",
+					"options":[
+						{
+							"code":"1",
+							"description":"As características adquiridas são transmitidas por hereditariedade"
+						},
+						{
+							"code":"2",
+							"description":"Existem variações de todos os graus entre os indivíduos"
+						},
+						{
+							"code":"3",
+							"description":"A seleção natural favorece os mais aptos"
+						},
+						{
+							"code":"4",
+							"description":"Os indivíduos devem empenhar-se na luta pela vida"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"17",
+					"description":"Considere a frase a seguir:\n\"As cactáceas transformaram suas folhas em espinhos para conseguirem sobreviver em regiões semiáridas.\"\nEla expressa uma ideia baseada em:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Darwin, por considerar a ação da seleção natural"
+						},
+						{
+							"code":"2",
+							"description":"Darwin, dado que as folhas sofreram adaptação ao meio"
+						},
+						{
+							"code":"3",
+							"description":"Lamarck, por ressaltar a transmissão de características selecionadas aos descendentes"
+						},
+						{
+							"code":"4",
+							"description":"Lamarck, porque relaciona o aparecimento de espinhos à necessidade de sobrevivência em ambiente semiárido"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"18",
+					"description":"A teoria moderna da evolução, ou teoria sintética da evolução, incorpora os seguintes conceitos à teoria original proposta por Darwin:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Mutação e seleção natural"
+						},
+						{
+							"code":"2",
+							"description":"Mutação e adaptação"
+						},
+						{
+							"code":"3",
+							"description":"Mutação e recombinação gênica"
+						},
+						{
+							"code":"4",
+							"description":"Recombinação gênica e seleção natural"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"19",
+					"description":"Nos Estados Unidos da América, existe um pequeno grupo de pessoas que formam a chamada Ordem Amish, fundada há 200 anos por somente três casais. Do ponto de vista evolutivo, podemos dizer que as diferenças entre esta população e a população original foram geradas PRINCIPALMENTE por:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Seleção natural"
+						},
+						{
+							"code":"2",
+							"description":"Deriva genética"
+						},
+						{
+							"code":"3",
+							"description":"Migração"
+						},
+						{
+							"code":"4",
+							"description":"Recombinação"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"20",
+					"description":"Assinale a afirmativa correta, considerando a Teoria Sintética da Evolução.",
+					"options":[
+						{
+							"code":"1",
+							"description":"A variabilidade genética é prejudicial para indivíduos de uma mesma população"
+						},
+						{
+							"code":"2",
+							"description":"A seleção natural garante a sobrevivência exclusiva dos indivíduos mais fortes"
+						},
+						{
+							"code":"3",
+							"description":"A universalidade do código genético é uma evidência de que todas as formas de vida estão evolutivamente correlacionadas"
+						},
+						{
+							"code":"4",
+							"description":"O sucesso reprodutivo do indivíduo é independente das características do meio ambiente"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"21",
+					"description":"Analise as afirmativas (Clique em ?) e assinale a alternativa CORRETA com as assertivas VERDADEIRAS:",
+					"description_2": "I - Ciência não trata de crenças, mas sim de inferências baseadas em evidências;\n\nII - Mamíferos são mais evoluídos que anelídeos;\n\nIII - A evolução atua mediante processos de seleção ocorrendo dentro das populações e não em um único indivíduo;\n\nIV - Denomina-se \"desenvolvimento\" ao processo em que os seres vivos crescem (ontogenia). \"Evolução\" é a mudança de forma ou de comportamento de uma população ao longo do tempo geológico (filogenia);",
+					"description_3": "\nV - Compartilhar características não é sinônimo de parentesco. O parentesco é definido quando os grupos em questão possuem ancestrais comuns e nada mais.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Todas as alternativas estão corretas"
+						},
+						{
+							"code":"2",
+							"description":"Somente a alternativa I é correta"
+						},
+						{
+							"code":"3",
+							"description":"As alternativas I, II e V são corretas"
+						},
+						{
+							"code":"4",
+							"description":"As alternativas I, III, IV e V são corretas"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"22",
+					"description":"Um grupo de roedores é separado pelo surgimento de um rio. Ao longo do tempo, os roedores ao norte do rio tornam-se brancos, enquanto os roedores ao sul do rio tornam-se castanhos. Nesse caso, é correto afirmar que a seleção natural:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Gera mutações específicas para os ambientes ao norte e ao sul do rio"
+						},
+						{
+							"code":"2",
+							"description":"Promove a competição entre roedores brancos e castanhos"
+						},
+						{
+							"code":"3",
+							"description":"Favorece diferentes fenótipos ao norte e ao sul do rio"
+						},
+						{
+							"code":"4",
+							"description":"Aumenta a probabilidade de sobrevivência apenas dos roedores brancos"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"23",
+					"description":"Analise a seguinte situação:\nI - Certa espécie de pássaro apresenta bico bastante longo;\nII - Essa espécie se alimenta do néctar existente na base de certas flores de corola longa, afunilada;\nA frase que está construída pela ótica darwinista, a partir dos fatos descritos anteriormente, pode ser identificada por:",
+					"options":[
+						{
+							"code":"1",
+							"description":"As plantas adaptaram a corola longa, afunilada, para que determinada espécie de pássaro pudesse se alimentar do néctar"
+						},
+						{
+							"code":"2",
+							"description":"Por ter bico longo, determinada espécie de pássaro pode se alimentar do néctar de flores de corola longa, afunilada"
+						},
+						{
+							"code":"3",
+							"description":"Para se alimentar do néctar de flores de corola longa, afunilada, uma determinada espécie de pássaro desenvolveu bico bastante longo"
+						},
+						{
+							"code":"4",
+							"description":"A necessidade de buscar o néctar das flores de corola longa, afunilada, fez com que o bico de determinada espécie de pássaro desenvolvesse de forma mais longa"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"24",
+					"description":"Leia o texto (Clique em ?). Pode-se afirmar que esse processo é um exemplo de:",
+					"description_2": "Mosquito da dengue está mais forte e resistente a inseticidas, segundo pesquisador do Inpa, professor Wanderli Tadei, que apresentou estudos mostrando que os atuais inseticidas já não têm mais a mesma eficiência de antes.",
+					"description_3": "Considerando a manchete da notícia e sabendo que o uso contínuo de antibióticos e inseticidas tem interferido na evolução dos organismos principalmente devido ao fato de possibilitar a formação de linhagens resistentes de bactérias e de insetos.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Irradiação adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"Isolamento reprodutivo"
+						},
+						{
+							"code":"3",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Seleção dos mais aptos"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"25",
+					"description":"O boto cor-de-rosa (Clique em ?), <i>Inia geoffrensis</i>, é um mamífero bastante conhecido da bacia Amazônica. A transformação lenta e gradual das características de uma espécie, ao longo de milhares de gerações a partir de um mesmo ancestral, é explicada através do processo de:",
+					"width": 318,
+					"height": 116,
+					"img_code": 125,
+					"img_tela_2": 1,
+					"description_2":"Sua adaptação ao ambiente aquático é percebida na anatomia do corpo, em que os membros anteriores exercem a função de nadadeiras.",
+					"description_3":"A figura mostra uma réplica dos ossos de uma nadadeira peitoral de um boto. A presença de cinco dedos, assim como de diversos ossos semelhantes aos das mãos de um ser humano, sugere um parentesco evolutivo com a nossa espécie.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Utilização, ou não, dos órgãos animais existentes"
+						},
+						{
+							"code":"2",
+							"description":"Mutações geradas pela mudança no ambiente"
+						},
+						{
+							"code":"3",
+							"description":"Seleção natural de organismos mais adaptados ao ambiente"
+						},
+						{
+							"code":"4",
+							"description":"Criação da alta biodiversidade nas florestas tropicais"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"26",
+					"description":"O texto (Clique em ?) trata de um exemplo de:",
+					"width": 110,
+					"height": 200,
+					"img_code": 126,
+					"img_tela_2": 1,
+					"description_3":"[...] Os pardais domésticos chegaram à América do Norte da Europa no século XIX. Desde então, a variação genética dentro da população e a seleção em vários habitats, têm permitido que eles habitem a maior parte do continente.\nPardais domésticos no norte são maiores e mais escuros do que os do sul. Cores escuras absorvem a luz do sol melhor do que cores claras e o tamanho corporal maior supõe uma superfície menor por unidade de volume, reduzindo assim a perda de calor – ambas vantagens de climas frios.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Seleção natural"
+						},
+						{
+							"code":"2",
+							"description":"Lei dos caracteres adquiridos"
+						},
+						{
+							"code":"3",
+							"description":"Divergência"
+						},
+						{
+							"code":"4",
+							"description":"Variabilidade"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"27",
+					"description":"A figura (Clique em ?) demonstra o cultivo por agricultores de numerosas variedades de culturas a partir da mostarda silvestre. Este mecanismo realizado exemplifica:",
+					"width": 350,
+					"height": 220,
+					"img_code": 127,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Seleção natural"
+						},
+						{
+							"code":"2",
+							"description":"Seleção direcional"
+						},
+						{
+							"code":"3",
+							"description":"Seleção artificial"
+						},
+						{
+							"code":"4",
+							"description":"Não ocorre seleção"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"28",
+					"description":"Seleção faz com que muitos organismos cheguem ao extremo por sexo. Clique em (Clique em ?) e veja alguns exemplos. Esses casos descritos são típicos de:",
+					"width": 350,
+					"height": 310,
+					"img_code": 128,
+					"img_tela_2": 1,
+					"description_3":"Pavões mantêm rabos elaborados, elefantes marinhos brigam por territórios, moscas da fruta fazem danças e algumas espécies entregam presentes persuasivos. Afinal de contas, qual grilo Mórmon fêmea poderia resistir ao presente de um úmido pacote de esperma? Indo ainda mais ao extremo, a aranha viúva negra, macho literalmente se arremessa nas garras da morte para conseguir acasalar.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Seleção natural"
+						},
+						{
+							"code":"2",
+							"description":"Seleção artificial"
+						},
+						{
+							"code":"3",
+							"description":"Seleção direcional"
+						},
+						{
+							"code":"4",
+							"description":"Seleção sexual"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"29",
+					"description":"A gonorreia é considerada a segunda infecção sexualmente transmissível (IST) mais comum no mundo e afeta milhões de pessoas a cada ano. Atualmente, <i>Neisseria gonorrhoeae</i> está mais resistente aos antibióticos e pode se tornar incurável. Analise as alternativas a seguir e marque a INCORRETA.",
+					"options":[
+						{
+							"code":"1",
+							"description":"A resistência de <i>Neisseria gonorrhoeae</i> aos antibióticos está relacionada à falha na continuidade do tratamento, tornando possível a seleção e transmissão de bactérias resistentes na população"
+						},
+						{
+							"code":"2",
+							"description":"<i>Neisseria gonorrhoeae</i> apresenta células resistentes à dessecação e de difícil eliminação, tornando obrigatória a esterilização de roupas e utensílios utilizados pelos pacientes"
+						},
+						{
+							"code":"3",
+							"description":"Quando não tratada, a gonorreia pode levar à infertilidade, à transmissão ao feto na gravidez e à doença inflamatória pélvica"
+						},
+						{
+							"code":"4",
+							"description":"<i>Neisseria gonorrhoeae</i> pode contaminar os olhos por meio das mãos ou outra parte do corpo contendo fluidos contaminados"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"30",
+					"description":"Um professor deseja ressaltar a importância de Charles Darwin no desenvolvimento da teoria evolutiva moderna. Leia as seguintes afirmativas (Clique em  ?), que comparam a teoria de Darwin e teorias pré-darwinianas de origem da diversidade e assinale a alternativa correta.",
+					"width": 0,
+					"height": 0,
+					"description_2":"I - Com Darwin, ocorre uma mudança de foco no qual a evolução biológica passa de um processo populacional para um processo individual;\n\nII - Com Darwin, ocorre uma mudança de objetivo, pois, para ele, as espécies escolhiam evoluir para se tornarem mais adaptadas ao ambiente;\n\nIII - Darwin propôs o mecanismo evolutivo da sobrevivência diferencial de indivíduos que era dependente das características individuais;\n",
+					"description_3":"IV - Para Darwin, a variação entre indivíduos de uma população era da mesma natureza da variação entre espécies diferentes, o que tinha com consequente ancestralidade comum compartilhada, também proposta por ele.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Apenas as afirmativas I e III estão corretas"
+						},
+						{
+							"code":"2",
+							"description":"Apenas as afirmativas II e IV estão corretas"
+						},
+						{
+							"code":"3",
+							"description":"Apenas as afirmativas III e IV estão corretas"
+						},
+						{
+							"code":"4",
+							"description":"Apenas as afirmativas I, III e IV estão corretas"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"31",
+					"description":"Em uma farmácia, ocorreu um diálogo a respeito do uso de antibióticos (Clique em  ?). Através das afirmações feitas por Rick e Alex, é possível identificar ideias relacionadas respectivamente ao:",
+					"description_2":"Rick disse: ─ O uso contínuo de antibióticos induz as bactérias a alterarem sua biologia para criarem resistência a esses fármacos.\n",
+					"description_3":"Alex retrucou: ─ As bactérias resistentes já existem, os antibióticos apenas eliminam as sensíveis.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Fixismo e ao darwinismo"
+						},
+						{
+							"code":"2",
+							"description":"Lamarckismo e ao neodarwinismo"
+						},
+						{
+							"code":"3",
+							"description":"Mendelismo e à seleção natural"
+						},
+						{
+							"code":"4",
+							"description":"Lamarckismo e ao darwinismo"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"32",
+					"description":"A força evolutiva que melhor explica a redução da diversidade genética (Clique em ?) nesta espécie é:",
+					"description_2": "A análise genética dos bisões europeus (<i>Bison bonasus</i>) revelou uma diversidade genética muito baixa em suas populações, que foi atribuída a uma drástica redução de tamanho populacional, chegando muito próxima à extinção da espécie, no início de século XX.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Seleção natural"
+						},
+						{
+							"code":"2",
+							"description":"Migração"
+						},
+						{
+							"code":"3",
+							"description":"Deriva genética"
+						},
+						{
+							"code":"4",
+							"description":"Mutação"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"33",
+					"description":"A teoria sintética da evolução reuniu conhecimentos de várias áreas da biologia à teoria elaborada por Darwin. Na época em que esse autor viveu, ele não conseguiu explicar a ocorrência de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Mutação e recombinação gênicas"
+						},
+						{
+							"code":"2",
+							"description":"Migração de uma região para outra"
+						},
+						{
+							"code":"3",
+							"description":"Adaptação ao meio ambiente"
+						},
+						{
+							"code":"4",
+							"description":"Seleção natural e de seleção sexual"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"34",
+					"description":"O avanço da medicina é responsável pelo aumento da expectativa de vida de muitas pessoas portadoras de genes que causam doenças graves.\nAssim, podemos dizer que a medicina:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Vai contra a seleção natural, prejudicando a permanência da espécie humana"
+						},
+						{
+							"code":"2",
+							"description":"Vai contra a seleção natural, favorecendo a permanência da espécie humana"
+						},
+						{
+							"code":"3",
+							"description":"Vai contra o processo de mutação, prejudicando a permanência da espécie humana"
+						},
+						{
+							"code":"4",
+							"description":"Tem sido favorável à seleção natural, sendo positiva para a permanência da espécie humana"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"35",
+					"description":"Em uma aula sobre Evolução, cujo tema discutido era a mutação gênica, o professor pediu para que os alunos analisassem quatro afirmações. Qual delas está CORRETA?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Mutações são alterações que ocorrem na molécula de DNA sempre transmitidas de pais para seus descendentes"
+						},
+						{
+							"code":"2",
+							"description":"Uma determinada mutação pode ser vantajosa em um ambiente e prejudicial em outro"
+						},
+						{
+							"code":"3",
+							"description":"Mutações são alterações que ocorrem na molécula de RNA mensageiro que controla a produção de uma proteína"
+						},
+						{
+							"code":"4",
+							"description":"Mutações ocorrem devido a uma necessidade de adaptação do indivíduo ao ambiente"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"36",
+					"description":"A Seleção Natural é um dos principais fatores responsáveis pela evolução, juntamente com a mutação, a deriva genética e a migração genética. Para que a Seleção Natural ocorra em uma população, é imprescindível que haja:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Alteração do meio ambiente, propiciando o favorecimento de alguns indivíduos da população"
+						},
+						{
+							"code":"2",
+							"description":"Informações genéticas anômalas que produzam doenças quando em homozigose"
+						},
+						{
+							"code":"3",
+							"description":"Diversidade da composição genética dos indivíduos da população"
+						},
+						{
+							"code":"4",
+							"description":"Disputa entre os indivíduos, com a morte dos menos aptos"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"37",
+					"description":"Leio o texto (Clique em  ?) que aponta uma ideia comum às teorias da evolução, propostas por Darwin e por Lamarck, refere-se à interação entre os organismos e seus ambientes, que é denominada de:",
+					"description_2":"Darwin, em viagem às Ilhas Galápagos, observou que os tentilhões apresentavam bicos com formatos diferentes em cada ilha, de acordo com o tipo de alimentação disponível.",
+					"description_3":"Lamarck, ao explicar que o pescoço da girafa teria esticado para colher folhas e frutos no alto das árvores, elaborou ideias importantes sobre a evolução dos seres vivos.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Mutação"
+						},
+						{
+							"code":"2",
+							"description":"Adaptação"
+						},
+						{
+							"code":"3",
+							"description":"Seleção natural"
+						},
+						{
+							"code":"4",
+							"description":"Recombinação gênica"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"38",
+					"description":"Qual é o mecanismo de seleção dos vermes resistentes citados (Clique em ?) ?",
+					"description_2":"Atualmente, o medicamento de escolha para o tratamento da esquistossomose causada por todas as espécies do verme <i>Schistosoma</i> e o <i>praquizentel</i> (PQZ).",
+					"description_3": "Apesar de ser eficaz e seguro, seu uso em larga escala e tratamentos repetitivos em áreas endêmicas têm provocado a seleção de linhagens resistentes.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Os vermes tornam-se resistentes ao entrarem em contato com o medicamento quando invadem muitos hospedeiros"
+						},
+						{
+							"code":"2",
+							"description":"Os vermes resistentes absorvem o medicamento, passando-o para seus descendentes, que também se tornam resistentes"
+						},
+						{
+							"code":"3",
+							"description":"Os vermes resistentes transmitem resistência ao medicamento quando entram em contato com outros vermes dentro do hospedeiro"
+						},
+						{
+							"code":"4",
+							"description":"Os vermes resistentes tendem a sobreviver e produzir mais descendentes do que os vermes sobre os quais o medicamento faz efeito"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"39",
+					"description":"Clique em (Clique em  ?) para ler o texto, em seguida assinale a alternativa que contém, respectivamente, o nome do seu autor e a ideia transmitida pelo texto:",
+					"description_2":"O uso de alargadores na boca e nas orelhas é um truque que as mulheres de tribos africanas praticam, em busca da beleza, para chamar a atenção dos seus parceiros.",
+					"description_3":"Tal hábito promove a ampliação dos lóbulos das orelhas e do lábio inferior, e as pessoas pertencentes a essas tribos acreditam que, apesar da retirada desses acessórios, esses órgãos ficarão deformados e essa característica será passada da mãe para suas filhas.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Alfred Wallace - Herança das características dominantes"
+						},
+						{
+							"code":"2",
+							"description":"Jean Lamarck - Herança dos caracteres adquiridos"
+						},
+						{
+							"code":"3",
+							"description":"Charles Darwin - Seleção artificial"
+						},
+						{
+							"code":"4",
+							"description":"Alfred Lamarck - Lei do transformismo"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"40",
+					"description":"Em 2009, comemoram-se os 150 anos da publicação da obra A origem das espécies, de Charles Darwin. Pode-se afirmar que a história da biologia evolutiva iniciou-se com Darwin, porque ele:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Foi o primeiro cientista a propor um sistema de classificação para os seres vivos, que serviu de base para sua teoria evolutiva da sobrevivência dos mais aptos"
+						},
+						{
+							"code":"2",
+							"description":"Provou, experimentalmente, que o ser humano descende dos macacos, num processo de seleção que privilegia os mais bem adaptados"
+						},
+						{
+							"code":"3",
+							"description":"Propôs um mecanismo para explicar a evolução das espécies, em que a variabilidade entre os indivíduos, relacionada à adaptação ao ambiente, influi nas chances de eles deixarem descendentes"
+						},
+						{
+							"code":"4",
+							"description":"Demonstrou que mudanças no DNA, ou seja, mutações, são fonte da variabilidade genética para a evolução das espécies por meio da seleção natural"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"41",
+					"description":"O que esse autor não conseguiu demonstrar em sua teoria?",
+					"description_2": "Charles R. Darwin (1809-1882) apresentou, em 1859, no livro A origem das espécies,suas ideias a respeito dos mecanismos de evolução pelo processo da seleção natural.",
+					"description_3": "Ao elaborar a Teoria da Evolução, Darwin não conseguiu obter algumas respostas aos seus questionamentos.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"A sobrevivência dos mais aptos"
+						},
+						{
+							"code":"2",
+							"description":"A origem das variações entre os indivíduos"
+						},
+						{
+							"code":"3",
+							"description":"O crescimento exponencial das populações"
+						},
+						{
+							"code":"4",
+							"description":"A herança das características dos pais pelos filhos"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"42",
+					"description":"Leia o texto (Clique em  ?). Essa hipótese é um exemplo da proposição transformista denominada:",
+					"description_2":"Recentemente, pesquisadores do University College de Londres, analisando o DNA de esqueletos de seres humanos que viveram na Europa no período neolítico, mostraram que esses primeiros europeus não possuíam o gene da lactase, enzima necessária à eficiente digestão do leite.",
+					"description_3":"O surgimento, ao acaso, desse gene representou uma característica competitiva altamente vantajosa para a espécie, aumentando sua freqüência na população.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Mendelismo"
+						},
+						{
+							"code":"2",
+							"description":"Criacionismo"
+						},
+						{
+							"code":"3",
+							"description":"Lamarckismo"
+						},
+						{
+							"code":"4",
+							"description":"Neodarwinismo"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"43",
+					"description":"Seu nome científico é <i>Physarum polycephalum</i> (Clique em ?), mas ele ficou famoso pelo nome inspirado no filme fictício The Blob, que mostra uma bolha alienígena que consome tudo que vê pela frente. No filme, os humanos não sabem muito bem o que é aquela criatura — e o mesmo acontece com os cientistas da vida real. Qual seria a maneira mais efetiva de classificá-lo na matriz de diversidade biológica?",
+					"description_2":"Esse ser vivo bizarro unicelular locomove-se a 1cm por hora, regenera-se completamente em um dia se cortado ao meio, possui 720 gametas diferentes, tem a capacidade de aprender e passar o aprendizado para futuras gerações. Na natureza alimenta-se de bactérias, esporos de fungos e micróbios. Já em cativeiro, sua comida favorita é mingau de aveia!",
+					"description_3":"Diante dessa multiplicidade de caracteres compartilhados com muitos táxons, é de difícil classificação, estando atualmente posicionado entre fungos e \"protistas\".",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Buscando evidências sobre ancestralidade comum"
+						},
+						{
+							"code":"2",
+							"description":"Levantando informações detalhadas sobre o processo de divisão celular"
+						},
+						{
+							"code":"3",
+							"description":"Quantificando qual o número de cromossomos da espécie"
+						},
+						{
+							"code":"4",
+							"description":"Fazendo o cruzamento com espécies de fungos e protistas para provar se há descendentes férteis"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"44",
+					"description":"Assinale a alternativa que NÃO corresponde corretamente a uma observação proposta por Darwin (Clique em ?):",
+					"description_2":"A seleção natural é a peça central da teoria da evolução de Darwin. Ela fornece uma explicação natural para as origens da adaptação, incluindo todos os atributos anatômicos, comportamentais, ontogenéticos e fisiológicos que aumentam a capacidade de um organismo de utilizar recursos ambientais para sobreviver e reproduzir-se.",
+					"description_3":"Darwin desenvolveu sua teoria de seleção natural com uma série de observações.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Os organismos têm uma grande fertilidade potencial"
+						},
+						{
+							"code":"2",
+							"description":"Toda variação é herdável"
+						},
+						{
+							"code":"3",
+							"description":"Todos os organismos apresentam algum tipo de variação"
+						},
+						{
+							"code":"4",
+							"description":"Populações naturais normalmente permanecem constantes em tamanho, com exceção de pequenas flutuações"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"45",
+					"description":"Considere os exemplos (Clique em ?) de características anatômicas e fisiológicas de três seres vivos. Esses três seres vivos apresentam:",
+					"description_2":"O chimpanzé (<i>Pan troglodytes</i>) possui visão binocular e o primeiro dedo oponível nas mãos. A visão binocular permite que o cérebro distinga as diferentes distâncias entre os objetos observados e o observador e a presença do primeiro dedo oponível nas mãos permite o movimento de pinça, facilitando agarrar objetos.\n",
+					"description_3":"O inseto maria-fedida (<i>Nezara viridula</i>) libera um odor, produzido por glândulas toda vez que se sente ameaçado. Além dessa defesa, ele pode apresentar algumas colorações, como verde ou marrom, o que auxilia na proteção contra predadores.\n\nA planta urtiga (<i>Urera baccifera</i>) apresenta tricomas urticantes na superfície de suas folhas. Eles secretam substâncias ácidas, causando vermelhidão, coceira e ardência na pele de uma pessoa que as toca.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Normas de reação, que apareceram por mutações induzidas"
+						},
+						{
+							"code":"2",
+							"description":"Características adaptativas, que foram selecionadas pelo ambiente"
+						},
+						{
+							"code":"3",
+							"description":"Órgãos homólogos, que surgiram para adaptá-los ao ambiente"
+						},
+						{
+							"code":"4",
+							"description":"Órgãos vestigiais, que ficaram cada vez mais complexos com o tempo"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"46",
+					"description":"Leia o texto (Clique em  ?).\nO termo correto que descreve essa mudança evolutiva é:",
+					"description_2":"As folhas do maracujá produzem substâncias tóxicas que as protegem contra larvas de insetos, entretanto há uma espécie de borboleta cujas larvas toleram essas substâncias tóxicas, pois possuem adaptações enzimáticas em seu sistema digestivo.",
+					"description_3":"Como resposta a essa adaptação digestiva, algumas folhas de maracujá apresentam manchas amarelas parecidas com os ovos da borboleta que secretam néctar, atraindo formigas e vespas que são predadores naturais da larva da borboleta.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Seleção natural"
+						},
+						{
+							"code":"2",
+							"description":"Coevolução"
+						},
+						{
+							"code":"3",
+							"description":"Microevolução"
+						},
+						{
+							"code":"4",
+							"description":"Efeito fundador"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"47",
+					"description":"Sobre o processo de seleção biológica envolvendo tais hortaliças (Clique em ?), assinale a alternativa correta:",
+					"description_2":"A figura acima apresenta cinco hortaliças comumente encontradas em hortifrútis e supermercados.",
+					"width": 350,
+					"height": 170,
+					"img_code": 147,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"As hortaliças ilustradas tratam-se de variedades de uma mesma espécie biológica, selecionadas por seleção natural e resultado da adaptação da variedade selvagem a diferentes fatores ambientais"
+						},
+						{
+							"code":"2",
+							"description":"As hortaliças ilustradas tratam-se de um exemplo de diferentes espécies biológicas que divergiram como resultado de um processo de deriva genética de populações selvagens"
+						},
+						{
+							"code":"3",
+							"description":"As hortaliças ilustradas tratam-se de um exemplo de diferentes espécies biológicas que divergiram como resultado de um processo de especiação simpátrica por poliploidia"
+						},
+						{
+							"code":"4",
+							"description":"As hortaliças ilustradas tratam-se de variedades de uma mesma espécie biológica, selecionadas por seleção artificial e resultado do cruzamento de organismos selecionados para produzir linhagens com características desejadas"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"48",
+					"description":"Em termos evolutivos, o melhoramento genético (Clique em ?) consiste em:",
+					"description_2":"[...] O melhoramento genético do feijão-caupi no Sistema Nacional de Pesquisa Agropecuária (SNPA) tem sido feito considerando os interesses de agricultores familiares e empresariais e com o foco voltado para o complexo produtor, comerciante, agroindustrial, distribuidor e consumidor, e, recentemente, exportador.",
+					"description_3":"O resultado desse trabalho tem sido a obtenção e indicação de cultivares melhorados geneticamente para todos os tipos de produtores e regiões com potencial para produção de feijão-caupi do País. [...]",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Seleção artificial dos melhores genótipos"
+						},
+						{
+							"code":"2",
+							"description":"Seleção natural dos melhores fenótipos"
+						},
+						{
+							"code":"3",
+							"description":"Seleção sexual de reprodutores com as características desejadas, aperfeiçoando-se a geração sucessora"
+						},
+						{
+							"code":"4",
+							"description":"Promover mutações para gerar linhagens com características vantajosas"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"49",
+					"description":"O trecho (Clique em ?) está de acordo com a teoria:",
+					"description_2":"[...] Pessoas portadoras de uma mutação genética chamada CCR5-delta32 estão protegidas da Aids, mesmo que tenham contraído o HIV, já que a mutação impede o vírus de atacar as células do sistema imunológico, ..., epidemias de febre hemorrágica viral que pouparam as pessoas afetadas pela mutação.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Neodarwinista, porque se refere a uma mutação que foi selecionada positivamente"
+						},
+						{
+							"code":"2",
+							"description":"Lamarckista, porque as epidemias de febre hemorrágica provocaram a mutação"
+						},
+						{
+							"code":"3",
+							"description":"Darwinista, porque se refere somente à sobrevivência do melhor adaptado"
+						},
+						{
+							"code":"4",
+							"description":"Neodarwinista, porque as epidemias de febre hemorrágica provocaram o desenvolvimento de defesas contra os vírus nos indivíduos afetados"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"50",
+					"description":"O que está levando a cascavel a ficar mais silenciosa, de acordo com a teoria de evolução das espécies, proposta por Darwin? (Clique em ?)",
+					"description_2":"As cascavéis, serpentes do gênero <i>Crotalus</i>, apesar de se encontrarem no grupo de serpentes venenosas, causam poucos acidentes a humanos quando comparadas a outras espécies. Isto ocorre devido ao ruído do seu “chocalho”, que faz com que as vítimas percebam a sua presença.",
+					"description_3":"Ultimamente, pesquisadores da área observam que essas cobras têm ficado mais silenciosas, o que passa a ser um problema, pois, se as pessoas não as percebem, aumentam os riscos de acidentes.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"A necessidade de não ser descoberta e morta"
+						},
+						{
+							"code":"2",
+							"description":"As alterações no seu código genético que surgiram para aperfeiçoá-la"
+						},
+						{
+							"code":"3",
+							"description":"As mutações sucessivas que foram acontecendo para que ela pudesse adaptar-se"
+						},
+						{
+							"code":"4",
+							"description":"As variedades mais silenciosas que foram selecionadas positivamente"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"51",
+					"description":"Uma equipe internacional de geólogos, paleontólogos e nanotecnólogos encontrou em rochas canadenses, estruturas tubulares e filamentosas que, segundo interpretam, representam bactérias fósseis. Provenientes de fumarolas hidrotermais do fundo do oceano de 3,77 a 4,28 bilhões de anos atrás, esses microfósseis representam as mais antigas evidências de vida de que temos registro até agora. Clique em (?) e assinale a sequência correta:",
+					"description_2":"Marque V para as afirmações verdadeiras e F para as falsas:\n( ) As bactérias são organismos unicelulares que podem ou não formar colônias. Esses organismos possuem material genético disperso no citoplasma, sendo, portanto, denominados procariontes.",
+					"description_3":"( ) Segundo a hipótese heterotrófica, os primeiros seres vivos do planeta Terra eram unicelulares, procariotos e capazes de sintetizar matéria orgânica através da fotossíntese.\n( ) Os fósseis são restos de seres vivos ou evidências de suas atividades biológicas preservados em diversos materiais, como rochas, sedimentos e resina, por exemplo.\n( ) Além dos fósseis, a embriologia comparada, os órgãos vestigiais, os órgãos homólogos, os órgãos análogos e a semelhança na estrutura molecular de diversos organismos podem ser considerados evidências e provas da evolução.\n( ) De acordo com a teoria sintética da evolução, as mutações sempre trazem vantagens adaptativas em relação ao meio.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"V - F- F - F - V"
+						},
+						{
+							"code":"2",
+							"description":"V - F - V - V - F"
+						},
+						{
+							"code":"3",
+							"description":"F - F - V - F - F"
+						},
+						{
+							"code":"4",
+							"description":"F - V - F - V – F"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"52",
+					"description":"Leia o texto (Clique em ?).\nO processo evolutivo que resultou no surgimento dessa diversidade de sapos a partir de um ancestral comum ocorreu inicialmente em função:",
+					"description_2":"<i>Brachycephalus leopardus, Brachycephalus pernix, Brachycephalus boticario, Brachycephalus fuscolineatus, Brachycephalus verrucosus, Brachycephalus aurogutattus, Brachycephalus olivaceus, Brachycephalus quirirensis</i> e <i>Brachycephalus mariaeterezae</i> são os nomes científicos de sapos do sul do Brasil, recém-classificados pelos biólogos.",
+					"description_3":"Esses animais podem ter menos de 1 cm e se originaram a partir de um ancestral comum. Como vivem separados, em topos de montanhas e em áreas muito reduzidas, as populações desses sapos acabaram se tornando diferentes.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Do isolamento geográfico, seguido de mutações e recombinações gênicas nas populações e culminando no isolamento reprodutivo"
+						},
+						{
+							"code":"2",
+							"description":"Do isolamento reprodutivo, seguido de mutações e recombinações gênicas nas populações e culminando no isolamento geográfico"
+						},
+						{
+							"code":"3",
+							"description":"Das mutações e recombinações gênicas nas populações, seguidas do isolamento geográfico e culminando no isolamento reprodutivo"
+						},
+						{
+							"code":"4",
+							"description":"Das mutações e recombinações gênicas nas populações, seguidas do isolamento reprodutivo e do isolamento geográfico"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"53",
+					"description":"Observe os esquemas. Os processos 1 e 2 representam, respectivamente:",
+					"width": 227,
+					"height": 130,
+					"img_code": 153,
+					"options":[
+						{
+							"code":"1",
+							"description":"Darwinismo e lamarckismo"
+						},
+						{
+							"code":"2",
+							"description":"Lamarckismo e criacionismo"
+						},
+						{
+							"code":"3",
+							"description":"Criacionismo e fixismo"
+						},
+						{
+							"code":"4",
+							"description":"Fixismo e evolucionismo"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"54",
+					"description":"O processo evolutivo dos insetos que desenvolvem a capacidade referida (Clique em ?) é mais bem explicado pela:",
+					"description_2": "Determinadas plantas para se protegerem de predadores produzem inibidores de proteases que dificultam a digestão de proteínas pelos insetos. \nPor outro lado, alguns insetos desenvolvem a capacidade de sintetizar enzimas digestivas resistentes à ação desses inibidores.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Teoria da Oscilação Gênica"
+						},
+						{
+							"code":"2",
+							"description":"Teoria de Darwin"
+						},
+						{
+							"code":"3",
+							"description":"Teoria de Malthus"
+						},
+						{
+							"code":"4",
+							"description":"Teoria de Lamarck"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"55",
+					"description":"Com base nesses dados (Clique em ?), é correto afirmar que:",
+					"description_2": "Números iguais de duas variedades de plantas da mesma espécie (I e II) foram introduzidos em determinado ambiente. Depois de diversas gerações, verificou-se que a variedade I tornara-se mais abundante.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"I não foi submetida à ação da seleção natural e, por isso, pôde aumentar em número"
+						},
+						{
+							"code":"2",
+							"description":"I sofreu mutações vantajosas, induzidas pelo ambiente, tornando-se mais resistente"
+						},
+						{
+							"code":"3",
+							"description":"I apresentou maior capacidade de adaptação ao meio, o que aumentou suas chances de sobreviver e de deixar descendentes"
+						},
+						{
+							"code":"4",
+							"description":"II possuía maior número de alelos recessivos que, frequentemente, levam à letalidade"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"56",
+					"description":"(Clique em ?)\nO poder das fêmeas na escolha dos machos foi denominado por Darwin de:",
+					"description_2": "Em muitas espécies de aves as fêmeas escolhem seus parceiros, que são mais coloridos, exuberantes e saudáveis. Essa escolha acaba conduzindo à perpetuação do melhor conjunto gênico da espécie na adaptação aos meios de vida.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Lei do vigor do híbrido, uma vez que os coloridos são híbridos"
+						},
+						{
+							"code":"2",
+							"description":"Lei do uso e desuso, uma vez que as fêmeas escolhem uma cor agradável e outra não"
+						},
+						{
+							"code":"3",
+							"description":"Lei da seleção de uma característica adquirida"
+						},
+						{
+							"code":"4",
+							"description":"Seleção sexual"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"57",
+					"description":"A agricultura moderna converte áreas ocupadas por comunidades vegetais complexas em áreas ocupadas por uma única espécie de planta destinada ao consumo humano.\nEsse processo está associado a um(a):",
+					"options":[
+						{
+							"code":"1",
+							"description":"Maior equilíbrio ecológico, devido à introdução da espécie agrícola"
+						},
+						{
+							"code":"2",
+							"description":"Diminuição das populações de insetos que se alimentam da espécie agrícola"
+						},
+						{
+							"code":"3",
+							"description":"Menor incidência de doenças causadas por fungos, bactérias ou vírus que atingem a espécie agrícola"
+						},
+						{
+							"code":"4",
+							"description":"Seleção de variedades da espécie agrícola resistentes a pragas e doenças"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"58",
+					"description":"Analise o texto (Clique em ?), ele deve ser atribuído a: ",
+					"description_2": "“Em todo animal que não tenha ainda se desenvolvido completamente, o uso frequente repetido de um órgão qualquer fortalece, pouco a pouco, esse órgão, desenvolve-o, aumenta-o, tornando-o mais forte, com uma força proporcional ao tempo de uso, enquanto o desuso de tal órgão enfraquece-o aos poucos, deteriora-o, diminui progressivamente suas faculdades e acaba por fazê-lo desaparecer.”",
+					"description_3": "Filosofia Zoológica, 1809.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Lamarck, para explicar o evolucionismo"
+						},
+						{
+							"code":"2",
+							"description":"Darwin, para explicar a seleção natural"
+						},
+						{
+							"code":"3",
+							"description":"Lamarck, para explicar o criacionismo"
+						},
+						{
+							"code":"4",
+							"description":"Mendel, para explicar a genética"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"59",
+					"description":"A análise da sequência (Clique em ?) permite afirmar que os indivíduos do 2º tipo:",
+					"description_2": "O desenho acima representa dois tipos de indivíduos de uma mesma espécie, reproduzindo-se ao longo de quatro gerações.",
+					"width": 202,
+					"height": 102,
+					"img_code": 159,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Transmitiram as características adquiridas no meio ambiente para seus descendentes"
+						},
+						{
+							"code":"2",
+							"description":"Não sofreram ação da seleção natural, porque eram mais aptos"
+						},
+						{
+							"code":"3",
+							"description":"Possuíam variações favoráveis em relação ao meio onde estavam"
+						},
+						{
+							"code":"4",
+							"description":"Criaram mutações vantajosas para este ambiente"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"60",
+					"description":"Leia o texto (Clique em ?).\nPode-se afirmar que estão corretos:",
+					"description_2": "Recentemente, uma marca de arroz colocou nos meios de comunicação uma campanha publicitária com o tema: Só os saudáveis sobrevivem. Em um dos filmes da campanha, um homem pré-histórico, carregando um pacote de batatas fritas, é perseguido por um dinossauro, que despreza as batatas e devora o homem. Em outro filme, um homem que come pizza não consegue fugir a tempo, enquanto seu companheiro de hábitos alimentares mais saudáveis sobrevive. As figuras apresentam cenas desses dois filmes publicitários.",
+					"description_3": "Embora se trate de uma campanha publicitária, sem qualquer compromisso com o rigor científico, uma professora de biologia resolveu usar estes filmes para promover com seus alunos uma discussão sobre alguns conceitos biológicos e alguns fatos da evolução humana.\nPedro afirmou que ambos os filmes traziam uma informação errada, pois homens e dinossauros não coexistiram.\nAlice afirmou que o tema da campanha publicitária, só os saudáveis sobrevivem, remete ao conceito de seleção natural.\nMarcos afirmou que os tubérculos e as sementes, não necessariamente as batatas e o arroz, só vieram a fazer parte da dieta humana uma vez estabelecida a agricultura.\nCatarina observou que no primeiro filme o dinossauro desprezou as batatas, uma vez que esses animais, qualquer que fosse a espécie, eram predadores e, necessariamente, carnívoros.",
+					"width": 327,
+					"height": 240,
+					"img_code": 160,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Pedro, Alice, Marcos e Catarina"
+						},
+						{
+							"code":"2",
+							"description":"Pedro e Alice, apenas"
+						},
+						{
+							"code":"3",
+							"description":"Pedro e Marcos, apenas"
+						},
+						{
+							"code":"4",
+							"description":"Alice e Marcos, apenas"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"61",
+					"description":"Observando os dados (Clique em ?), pode-se afirmar que as diferenças entre as porcentagens de indivíduos que possuem anemia falciforme, decorre da",
+					"description_2": "Áreas com alta incidência de Malária:\n- 85% de indivíduos siclêmicos\n- 15% de indivíduos normais",
+					"description_3": "\nÁreas com baixa incidência de Malária:\n- 40% de indivíduos siclêmicos\n- 60% de indivíduos normais",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Irradiação adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"Seleção natural"
+						},
+						{
+							"code":"3",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Seleção artificial"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"62",
+					"description":"Durante o ano de 95 no “Jô Soares Onze e meia” surgiu uma questão interessante: \"Por que as baratas inglesas são mais resistentes aos venenos e inseticidas comuns?\".\nUma explicação coerente com as ideias de Darwin e neodarwinista seria que:",
+					"description_2": "Áreas com alta incidência de Malária:\n- 85% de indivíduos siclêmicos\n- 15% de indivíduos normais",
+					"description_3": "\nÁreas com baixa incidência de Malária:\n- 40% de indivíduos siclêmicos\n- 60% de indivíduos normais",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"As baratas inglesas ganharam, com o passar do tempo, resistência aos venenos, tornando-as imunes aos mesmos"
+						},
+						{
+							"code":"2",
+							"description":"As baratas inglesas são mais sadias, mais bem alimentadas que de outras partes do mundo"
+						},
+						{
+							"code":"3",
+							"description":"As baratas inglesas foram selecionadas durante toda a industrialização inglesa por conviverem com lixo tóxico, sobrevivendo apenas aquelas com características resistentes a todo tipo de toxinas"
+						},
+						{
+							"code":"4",
+							"description":"As baratas inglesas tornaram-se imunes às toxinas, de tanto comê-las"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"63",
+					"description":"A nova teoria sintética da evolução (Clique em ?), ou neodarwinismo, considera como principais fatores evolutivos:",
+					"description_2": "\"Ainda que haja diversidade humana – e ela é um fato evolutivo incontestável – todos os homens devem ter, por motivos éticos e morais, os mesmos direitos básicos e fundamentais reconhecidos pela declaração universal dos direitos humanos.\"",
+					"description_3": "É a igualdade dentro da diversidade.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Migração, lei do uso e desuso, seleção natural"
+						},
+						{
+							"code":"2",
+							"description":"Mutação,	migração, herança dos caracteres adquiridos"
+						},
+						{
+							"code":"3",
+							"description":"Mutação, recombinação genética, seleção natural"
+						},
+						{
+							"code":"4",
+							"description":"Lei do uso e desuso, seleção natural, herança dos caracteres adquiridos"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"64",
+					"description":"O texto (Clique em ?) é uma defesa intransigente do princípio",
+					"description_2": "\"Nenhum dos fatos definidos da seleção orgânica, nenhum órgão especial, nenhuma forma característica ou distintiva, nenhuma peculiaridade do instinto ou do hábito, nenhuma relação entre espécies – nada disso pode existir, a menos que seja, ou tenha sido alguma vez, útil aos indivíduos ou às raças que os possuem.\"",
+					"description_3": "Alfred Russel Wallace, 1867.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Darwinista da seleção natural"
+						},
+						{
+							"code":"2",
+							"description":"Lamarckista da herança dos caracteres adquiridos"
+						},
+						{
+							"code":"3",
+							"description":"Mendeliano da segregação dos caracteres"
+						},
+						{
+							"code":"4",
+							"description":"Lamarckista do uso e do desuso"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"65",
+					"description":"Assinale a alternativa que explica, segundo a teoria evolutiva darwiniana, a presença de cianureto em plantas (Clique em ?)",
+					"description_2": "Assim como o arsênico, o cianureto é um tipo de substância que atua impedindo a síntese de ATP.",
+					"description_3": "No entanto, enquanto o primeiro é um composto que pode ser encontrado em rochas, o segundo é produzido por algumas plantas, como por exemplo, a mandioca-brava.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Excesso de herbivoria sobre certas plantas direcionam as mutações para que surjam substâncias protetoras como o cianureto"
+						},
+						{
+							"code":"2",
+							"description":"Nos ambientes onde existe a mandioca-brava, ocorrem mais mutações que nos outros ambientes, causando a produção de cianureto"
+						},
+						{
+							"code":"3",
+							"description":"Indivíduos capazes de produzir e armazenar cianureto sofrem menos com a ação de predadores e deixam maior número de descendentes férteis"
+						},
+						{
+							"code":"4",
+							"description":"As plantas com menos cianureto provavelmente são mais predadas e, portanto, deixam descendentes em maior número"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"66",
+					"description":"Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação).\nEssa especiação não ocorre devido ao(a)",					
+					"options":[
+						{
+							"code":"1",
+							"description":"Oscilação genética das raças"
+						},
+						{
+							"code":"2",
+							"description":"Convergência adaptativa entre raças"
+						},
+						{
+							"code":"3",
+							"description":"Isolamento geográfico entre as raças"
+						},
+						{
+							"code":"4",
+							"description":"Manutenção do fluxo gênico entre as raças"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"67",
+					"description":"A seleção natural pode agir sobre a diversidade das populações de maneiras diferentes. Numa delas, as condições do ambiente favorecem fenótipos que representam a média da população, desfavorecendo fenótipos extremos.\nEsta forma de seleção é denominada:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Disruptiva"
+						},
+						{
+							"code":"2",
+							"description":"Estabilizadora"
+						},
+						{
+							"code":"3",
+							"description":"Direcional"
+						},
+						{
+							"code":"4",
+							"description":"Sexual"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				}
+			]
+		},
+		{
+			"code":"2",
+			"name":"Sistemática Filogenética",
+			"description":"Monofilético",
+			"color1":"#75c5ea",
+			"color2": "#8bceed",
+			"width": 140,
+			"height": 87,
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"Qual alternativa apresenta a árvore que expressa corretamente as relações filogenéticas entre os animais?",
+					"width": 300,
+					"height": 100,
+					"img_code": 21,
+					"options":[
+						{
+							"code":"1",
+							"description":"A)",
+							"image": "1"
+						},
+						{
+							"code":"2",
+							"description":"B)",
+							"image": "1"
+						},
+						{
+							"code":"3",
+							"description":"C)",
+							"image": "1"
+						},
+						{
+							"code":"4",
+							"description":"D)",
+							"image": "1"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"2",
+					"description":"A figura (Clique em  ?) mostra uma das possíveis filogenias de um dos grandes grupos de primatas, os Ceropithecidae. Marque a alternativa correta.",
+					"description_2":"Grupo monofilético:\nSão aqueles que incluem o ancestral comum mais recente do grupo e todos os descendentes desse ancestral.",
+					"description_3":"Grupo parafilético:\nSão aqueles que envolvem um ancestral comum e alguns, porém não todos os seus descendentes.",
+					"width": 230,
+					"height": 260,
+					"img_code": 22,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"O gorila, filogeneticamente, é mais próximo do gibão e do homem que do orangotango"
+						},
+						{
+							"code":"2",
+							"description":"O homem, o chimpanzé e o gorila formam um grupo monofilético"
+						},
+						{
+							"code":"3",
+							"description":"O gibão é o único representante do grupo que não possui o dedo oponível"
+						},
+						{
+							"code":"4",
+							"description":"O orangotango, gibão, gorila e homem formam um grupo parafilético"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"3",
+					"description":"Durante o processo evolutivo dos organismos, constantemente ocorre o surgimento de novas espécies, por meio de um processo conhecido como especiação.\nAssinale a alternativa que apresenta corretamente os processos de especiação:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Hereditariedade e alelopatia"
+						},
+						{
+							"code":"2",
+							"description":"Seleção natural e polimorfismo"
+						},
+						{
+							"code":"3",
+							"description":"Polimorfismo e cladogênese"
+						},
+						{
+							"code":"4",
+							"description":"Anagênese e cladogênese"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"4",
+					"description":"A constatação (Clique em ?), em diferentes espécies, da presença dos mesmos ossos nos membros anteriores, com anatomia e função distintas, indica:",
+					"description_2": "Os registros fósseis constituem uma forte evidência do processo evolutivo, uma vez que permitem a comparação anatômica direta entre espécies ancestrais e atuais.",
+					"description_3": "Ossos fossilizados de membros anteriores de diferentes grupos vertebrados são frequentemente comparados com o objetivo de se compreender o processo evolutivo por meio de suas transformações.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Especiação"
+						},
+						{
+							"code":"2",
+							"description":"Simpatria"
+						},
+						{
+							"code":"3",
+							"description":"Alopatria"
+						},
+						{
+							"code":"4",
+							"description":"Homologia"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"5",
+					"description":"Populações de plantas vivendo na mesma área a exemplo da batata e do algodão podem dar origem a indivíduos poliploides. Este processo é responsável por um tipo de especiação, sendo denominada de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Alopátrica"
+						},
+						{
+							"code":"2",
+							"description":"Peripátrica"
+						},
+						{
+							"code":"3",
+							"description":"Simpátrica"
+						},
+						{
+							"code":"4",
+							"description":"Parapátrica"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"6",
+					"description":"Especiação refere-se ao processo de formação de novas espécies.\nQuanto à base desse processo evolutivo, assinale a afirmativa incorreta:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Na especiação alopátrica, novas espécies são originadas sem haver isolamento geográfico, como fator primordial"
+						},
+						{
+							"code":"2",
+							"description":"Na anagênese, ao longo do tempo, surge ou se modifica, em uma população, um caráter, que é responsável pelas \"novidades evolutivas\""
+						},
+						{
+							"code":"3",
+							"description":"A manutenção do isolamento reprodutivo entre duas populações pode resultar no surgimento de espécie nova"
+						},
+						{
+							"code":"4",
+							"description":"Na cladogênese, observa-se a separação física entre duas ou mais populações de uma espécie ancestral, originando duas novas espécies"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"7",
+					"description":"O cladograma (Clique em  ?) representa o processo evolutivo de diferentes grupos de vertebrados. Ao longo da evolução dos organismos, ocorreu o desenvolvimento de diversas estruturas que diferenciam e caracterizam cada um dos grupos. A comparação das estruturas dos grupos do cladograma com os conceitos sobre evolução é:",
+					"width": 350,
+					"height": 250,
+					"img_code": 27,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Pelos dos coelhos e penas das aves são estruturas homólogas, pois indicam uma origem comum e uma mesma função"
+						},
+						{
+							"code":"2",
+							"description":"As diferentes funções dos quatro membros de anfíbios e dos primatas indicam uma irradiação adaptativa, através de um ancestral comum"
+						},
+						{
+							"code":"3",
+							"description":"As patas dianteiras dos anfíbios e as asas das aves são estruturas análogas, pois não possuem origem comum e apresentam funções diferentes"
+						},
+						{
+							"code":"4",
+							"description":"Os tipos de ovos de crocodilos e os tipos de ovos de aves são originados de ancestrais diferentes, porém ocorreu uma convergência no modo de reprodução"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"8",
+					"description":"A análise do cladograma a seguir permite concluir que:",
+					"width": 273,
+					"height": 128,
+					"img_code": 28,
+					"options":[
+						{
+							"code":"1",
+							"description":"O grupo X, isolado, é um grupo parafilético"
+						},
+						{
+							"code":"2",
+							"description":"O grupo Y, isolado, é um grupo parafilético"
+						},
+						{
+							"code":"3",
+							"description":"Os grupos X e Z, analisados juntos, formam um grupo parafilético"
+						},
+						{
+							"code":"4",
+							"description":"O grupo Z, isolado, é um grupo parafilético."
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"9",
+					"description":"A árvore filogenética é uma hipótese sobre relações evolutivas, como mostra a figura (Clique em  ?). O Ancestral dos tetrápodes desenvolveu quatro membros e seus descendentes herdaram esse atributo, logo este indica:",
+					"width": 206,
+					"height": 214,
+					"img_code": 29,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Homoplasia"
+						},
+						{
+							"code":"2",
+							"description":"Homologia"
+						},
+						{
+							"code":"3",
+							"description":"Convergência"
+						},
+						{
+							"code":"4",
+							"description":"Plesiomorfia"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"10",
+					"description":"Os possíveis ancestrais das plantas com flor descendem de um grupo de algas verdes.\nConsiderando-se essa informação, é INCORRETO afirmar que os dois grupos mencionados têm em comum:",
+					"options":[
+						{
+							"code":"1",
+							"description":"A clorofila como pigmento fotossintetizante"
+						},
+						{
+							"code":"2",
+							"description":"A parede celular com celulose"
+						},
+						{
+							"code":"3",
+							"description":"O glicogênio como fonte de energia"
+						},
+						{
+							"code":"4",
+							"description":"Os pigmentos acessórios de diversas cores"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"11",
+					"description":"Considerando os conceitos em sistemática filogenética (Clique em ?), correlacione os números e letras:",
+					"description_2": "1) Características compartilhadas por linhagens irmãs.\n2) Características exclusivas do clado.\n3) Características que aparecem em linhagens independentes como resultado de evolução convergente.\n",
+					"description_3": "A) Homoplasias.\nB) Sinapomorfias\nC) Autapomorfias.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"1-A; 2-B; 3-C"
+						},
+						{
+							"code":"2",
+							"description":"1-B; 2-A; 3-C"
+						},
+						{
+							"code":"3",
+							"description":"1-A; 2-C; 3-B"
+						},
+						{
+							"code":"4",
+							"description":"1-B; 2-C; 3-A"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"12",
+					"description":"Observe os cladogramas abaixo e assinale a afirmativa correta. Considere A, B e C como sendo três espécies distintas:",
+					"width": 250,
+					"height": 150,
+					"img_code": 212,
+					"options":[
+						{
+							"code":"1",
+							"description":"Os dois cladogramas mostram relações evolutivas distintas"
+						},
+						{
+							"code":"2",
+							"description":"As espécies A e B fazem parte, obrigatoriamente, de um gênero distinto de C"
+						},
+						{
+							"code":"3",
+							"description":"A, B e C formam um grupo monofilético"
+						},
+						{
+							"code":"4",
+							"description":"A, B e C não compartilham um ancestral comum"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"13",
+					"description":"A Figura abaixo representa a distribuição geográfica atual de quatro espécies de um gênero de lagartos (A, B, C e D) e sua relação filogenética. Que tipo de especiação é o mais provável de ter ocorrido?",
+					"width": 240,
+					"height": 100,
+					"img_code": 213,
+					"options":[
+						{
+							"code":"1",
+							"description":"Simpátrica"
+						},
+						{
+							"code":"2",
+							"description":"Alopátrica"
+						},
+						{
+							"code":"3",
+							"description":"Parapátrica"
+						},
+						{
+							"code":"4",
+							"description":"Peripátrica"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"14",
+					"description":"A árvore filogenética (Clique em  ?) mostra a posição do sabiá em relação a outros grupos de aves. De acordo com esta árvore filogenética, é correto dizer que:",
+					"width": 285,
+					"height": 132,
+					"img_code": 214,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"O sabiá é a espécie mais evoluída entre as aves representadas"
+						},
+						{
+							"code":"2",
+							"description":"O avestruz é a mais adaptada entre as espécies representadas"
+						},
+						{
+							"code":"3",
+							"description":"Todas as aves representadas têm um ancestral comum"
+						},
+						{
+							"code":"4",
+							"description":"O osso esterno em forma de quilha é exclusivo de canários e sabiás"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"15",
+					"description":"De acordo com o cladograma a seguir, é correto afirmar que:",
+					"width": 285,
+					"height": 130,
+					"img_code": 215,
+					"options":[
+						{
+							"code":"1",
+							"description":"A é Briófita, B é Pteridófita e C é Espermatófita"
+						},
+						{
+							"code":"2",
+							"description":"C é Espermatófita, D é traqueófita e E é Angiosperma"
+						},
+						{
+							"code":"3",
+							"description":"C possui sementes, D é Espermatófita e E é Angiosperma"
+						},
+						{
+							"code":"4",
+							"description":"B é Briófita, D é traqueófita e E possui sementes"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"16",
+					"description":"A figura (Clique em ?) apresenta uma proposta de relações evolutivas entre diferentes grupos de organismos. Pode-se dizer que a presença de núcleo delimitado por membrana e a formação de tecidos verdadeiros apareceram, respectivamente, em:",
+					"width": 350,
+					"height": 130,
+					"img_code": 216,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"1 e 2"
+						},
+						{
+							"code":"2",
+							"description":"1 e 3"
+						},
+						{
+							"code":"3",
+							"description":"2 e 4"
+						},
+						{
+							"code":"4",
+							"description":"3 e 4"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"17",
+					"description":"No processo evolutivo de algumas espécies de primatas, destacam-se diferentes formas de movimentação e de distribuição da musculatura, conforme a figura (Clique em  ?). Em relação aos demais primatas, a diferença na distribuição da musculatura da espécie humana favoreceu a seguinte atividade:",
+					"width": 252,
+					"height": 465,
+					"img_code": 217,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Ocupação das árvores"
+						},
+						{
+							"code":"2",
+							"description":"Alimentação herbívora"
+						},
+						{
+							"code":"3",
+							"description":"Manipulação de objetos"
+						},
+						{
+							"code":"4",
+							"description":"Locomoção quadrúpede"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"18",
+					"description":"As filogenias estão representadas, de acordo com as propostas mais aceitas atualmente para a evolução dos Vertebrados, as relações evolutivas entre alguns grupos de animais. De acordo com as informações contidas na filogenia (Clique em  ?), é correto afirmar que:",
+					"width": 300,
+					"height": 220,
+					"img_code": 218,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"As aves são o grupo mais próximo evolutivamente dos crocodilos"
+						},
+						{
+							"code":"2",
+							"description":"Os lagartos são tão próximos evolutivamente dos crocodilos quanto são das tartarugas"
+						},
+						{
+							"code":"3",
+							"description":"As tartarugas são mais próximas evolutivamente dos mamíferos do que das aves"
+						},
+						{
+							"code":"4",
+							"description":"Os peixes e os anfíbios compartilham um ancestral único e exclusivo"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"19",
+					"description":"Observe a árvore filogenética (Clique em ?). Espera-se encontrar maior semelhança entre os genes de: ",
+					"width": 204,
+					"height": 500,
+					"img_code": 219,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Bactéria e protozoário"
+						},
+						{
+							"code":"2",
+							"description":"Baleia e pássaro"
+						},
+						{
+							"code":"3",
+							"description":"Estrela-do-mar e ostra"
+						},
+						{
+							"code":"4",
+							"description":"Ostra e coral"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"20",
+					"description":"Sequências de DNA em muitos genes humanos são semelhantes a sequências dos genes correspondentes em chimpanzés. A explicação mais provável para esse resultado é:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Humanos evoluíram de chimpanzés"
+						},
+						{
+							"code":"2",
+							"description":"A evolução convergente levou a similaridades no DNA"
+						},
+						{
+							"code":"3",
+							"description":"Chimpanzés evoluíram de humanos"
+						},
+						{
+							"code":"4",
+							"description":"Humanos e chimpanzés compartilham ancestral comum relativamente recente"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"21",
+					"description":"A árvore filogenética apresentada é uma hipótese para as relações evolutivas entre quatro espécies. Considere as seguintes afirmações sobre esse cladograma (Clique em  ?).\nÉ correto o que se afirma apenas em:",
+					"description_2":"I - A espécie X evoluiu primeiro e a espécie Z, por último;\n\nII - As espécies X e W são mais evoluídas do que as espécies Y e Z;\n",
+					"description_3":"III - As espécies W e Y estão mais intimamente relacionadas entre si que as espécies X e Z;\n\nIV - As quatro espécies compartilham um ancestral comum.",
+					"width": 201,
+					"height": 139,
+					"img_code": 221,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"I e II"
+						},
+						{
+							"code":"2",
+							"description":"I e IV"
+						},
+						{
+							"code":"3",
+							"description":"III e IV"
+						},
+						{
+							"code":"4",
+							"description":"IV"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"22",
+					"description":"Assinale a alternativa que preenche corretamente as lacunas do enunciado (Clique em ?), na ordem em que aparecem.",
+					"description_2":"No processo de especiação __________, a separação geográfica entre populações de uma espécie ancestral é o primeiro passo para formação de duas novas espécies.",
+					"description_3":"Já no processo de especiação __________, ocorre o surgimento de duas novas espécies em uma mesma localização geográfica, decorrente de rearranjos cromossômicos ou mutações, diferenciando conjuntos gênicos dentro de uma mesma população.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"simpátrica – por migração"
+						},
+						{
+							"code":"2",
+							"description":"alopátrica – simpátrica"
+						},
+						{
+							"code":"3",
+							"description":"por deriva genética – alopátrica"
+						},
+						{
+							"code":"4",
+							"description":"por gradualismo – por migração"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"23",
+					"description":"Observe a árvore filogenética de alguns primatas americanos (Clique em ?).\nDe acordo com o relacionamento filogenético, o grupo formado pelos gêneros <i>Alouatta</i> e <i>Cortelles</i> e o grupo formado pelos gêneros <i>Protophitecus</i> e <i>Brachyteles</i> são classificados, respectivamente, como:",
+					"width": 320,
+					"height": 520,
+					"img_code": 223,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"parafilético e monofilético"
+						},
+						{
+							"code":"2",
+							"description":"polifilético e parafilético"
+						},
+						{
+							"code":"3",
+							"description":"polifilético e monofilético"
+						},
+						{
+							"code":"4",
+							"description":"monofilético e parafilético"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"24",
+					"description":"A figura (Clique em ?) mostra os tetrápodes como o morcego e o pássaro, ambos apresentam membros superiores que desenvolveram-se em asas. Portanto é uma característica",
+					"description_2":"\"Asas de morcegos consistem em retalhos de pele estendidos entre os ossos dos dedos e do braço, já a dos pássaros são penas estendidas por todo o comprimento do braço. Essas diferenças sugerem que as asas de morcego e as de pássaro não foram herdadas de um ancestral comum com asas\".",
+					"width": 204,
+					"height": 139,
+					"img_code": 224,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Divergência evolutiva"
+						},
+						{
+							"code":"2",
+							"description":"Homologia"
+						},
+						{
+							"code":"3",
+							"description":"Homoplasia (analogia)"
+						},
+						{
+							"code":"4",
+							"description":"Irradiação adaptativa"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"25",
+					"description":"A figura (Clique em ?) ilustra as relações filogenéticas dos primatas. Com base na figura e nos conhecimentos sobre filogenias, é correto afirmar:",
+					"width": 320,
+					"height": 380,
+					"img_code": 225,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Os lêmures foram o primeiro grupo de primatas a divergir do último ancestral comum"
+						},
+						{
+							"code":"2",
+							"description":"Os gibões constituem o grupo irmão dos orangotangos"
+						},
+						{
+							"code":"3",
+							"description":"O ancestral dos macacos antropoides africanos e dos humanos divergiu no início do Mioceno"
+						},
+						{
+							"code":"4",
+							"description":"Os prossímios divergiram antes dos antropoides"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"26",
+					"description":"A figura (Clique em ?) é frequentemente utilizada para retratar a evolução dos hominídeos. Embora clássica, esta forma de representação está errada porque:",
+					"width": 123,
+					"height": 480,
+					"img_code": 226,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Representa somente as espécies fósseis conhecidas, sem espaço para as ainda não conhecidas"
+						},
+						{
+							"code":"2",
+							"description":"Retrata somente espécies fósseis, as quais são vagamente aparentadas com o ser humano atual"
+						},
+						{
+							"code":"3",
+							"description":"Retrata evolução linear dos hominídeos, na qual a espécie antecedente é ancestral da seguinte"
+						},
+						{
+							"code":"4",
+							"description":"Retrata uma linhagem reticulada que vem se modificando ao longo de diferentes gerações"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"27",
+					"description":"Assinale a alternativa que indica corretamente as características (I), (II), (III) e (IV) apresentadas no cladograma (Clique em ?).",
+					"description_2":"Durante uma visita ao Museu de Zoologia do Instituto de Biologia da UNICAMP, alunos do ensino médio puderam observar a diversidade de formas de vida e a classificação dos vertebrados.",
+					"width": 320,
+					"height": 200,
+					"img_code": 227,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"(I) Fase larval e adulta no meio terrestre; (II) Cório e alantoide; (III) Quatro câmaras cardíacas; (IV) Presença de pelos"
+						},
+						{
+							"code":"2",
+							"description":"(I) Respiração cutânea; (II) Quatro câmaras cardíacas; (III) Ausência de dentes; (IV) Presença de glândulas mamárias."
+						},
+						{
+							"code":"3",
+							"description":"(I) Fase larval e adulta no meio aquático; (II) Respiração pulmonar; (III) Ausência de dentes; (IV) Presença de pelos"
+						},
+						{
+							"code":"4",
+							"description":"(I) Respiração cutânea; (II) Cório e alantoide; (III) Três câmaras cardíacas; (IV) Presença de glândulas mamárias"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"28",
+					"description":"Com base nas informações apresentadas na figura (Clique em ?), é correto afirmar que:",
+					"description_2":"A filogenia a seguir representa as relações evolutivas entre os principais grupos de plantas (reino <i>Plantae</i>) e as algas verdes.",
+					"width": 320,
+					"height": 260,
+					"img_code": 228,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"As gimnospermas são evolutivamente mais próximas das angiospermas que das briófitas"
+						},
+						{
+							"code":"2",
+							"description":"As flores e os frutos teriam se originado no ancestral comum das espermatófitas"
+						},
+						{
+							"code":"3",
+							"description":"A presença de parede celular é uma característica exclusiva das plantas"
+						},
+						{
+							"code":"4",
+							"description":"As angiospermas correspondem ao único grupo a apresentar sementes"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"29",
+					"description":"Tubarões e os golfinhos são semelhantes quanto ao formato corpóreo, como pode ser notado nas figuras (Clique em ?). Tal semelhança, no entanto, não reflete proximidade filogenética. A que processo se deve a semelhança entre esses animais?",
+					"width": 301,
+					"height": 418,
+					"img_code": 229,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Divergência adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"Mesmo ancestral comum exclusivo"
+						},
+						{
+							"code":"3",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Homologia"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"30",
+					"description":"A respeito do processo de evolução, é correto afirmar que:",
+					"options":[
+						{
+							"code":"1",
+							"description":"A reprodução assexuada não apresenta variabilidade genética"
+						},
+						{
+							"code":"2",
+							"description":"A existência de órgãos análogos em duas espécies é considerada evidência de evolução convergente"
+						},
+						{
+							"code":"3",
+							"description":"A seleção natural, na teoria darwinista, é a causa da variabilidade genética"
+						},
+						{
+							"code":"4",
+							"description":"O uso ou desuso de um órgão, na teoria lamarckista, provoca mutações genéticas"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"31",
+					"description":"Considere as afirmativas (Clique em  ?) relacionadas aos processos de especiação. Em seguida, assinale a alternativa que contenha todas as afirmativas CORRETAS:",
+					"description_2":"I - A especiação simpátrica considera que duas espécies possam surgir sem que haja qualquer processo de separação geográfica, em consequência de alterações cromossômicas numéricas ocorridas durante as divisões celulares;\n\nII - A especiação alopátrica considera que o primeiro passo para a formação de duas novas espécies é a separação geográfica entre populações de uma espécie ancestral;\n",
+					"description_3":"III - A especiação simpátrica poderia ser ocasionada pelo isolamento geográfico de populações em áreas marginais à de uma população original;\n\nIV - A especiação alopátrica poderia ser ocasionada pela migração significativa de uma população para outra região seguida da perda de contato com a população original.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"II e III"
+						},
+						{
+							"code":"2",
+							"description":"III e IV"
+						},
+						{
+							"code":"3",
+							"description":"I, II e IV"
+						},
+						{
+							"code":"4",
+							"description":"I, III e IV"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"32",
+					"description":"Além da teoria da seleção natural, o inglês Charles Darwin contribui com o progresso da ciência descrevendo que:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Fósseis podem se alterar ao longo do tempo"
+						},
+						{
+							"code":"2",
+							"description":"Espécies derivam de ancestrais comuns"
+						},
+						{
+							"code":"3",
+							"description":"Mutações podem promover a variabilidade genética"
+						},
+						{
+							"code":"4",
+							"description":"O ambiente modifica as espécies ao longo do tempo"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"33",
+					"description":"Em recente filme de animação homem e dinossauros coexistem harmonicamente. Tal história está biologicamente INCORRETA porque:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Homens e dinossauros somente se relacionaram de forma desarmônica"
+						},
+						{
+							"code":"2",
+							"description":"Uma das prováveis causas da extinção dos dinossauros foi o predatismo realizado pelo homem"
+						},
+						{
+							"code":"3",
+							"description":"Homens e dinossauros viviam em uma relação de comensalismo"
+						},
+						{
+							"code":"4",
+							"description":"Homens e dinossauros nunca se encontraram pois quando o homem surgiu os dinossauros já haviam sido extintos"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"34",
+					"description":"O movimento de pessoas na Terra tem aumentado constantemente. Isto tem alterado o curso da evolução humana, pois possibilita o aumento de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Fluxo de genes"
+						},
+						{
+							"code":"2",
+							"description":"Isolamento geográfico"
+						},
+						{
+							"code":"3",
+							"description":"Casalamento não-aleatório"
+						},
+						{
+							"code":"4",
+							"description":"Deriva genética"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"35",
+					"description":"Analise a árvore filogenética e as afirmações (Clique em ?). Estão corretas, apenas:",
+					"description_2":"O esquema acima mostra, de maneira simplificada, a árvore filogenética dos grandes grupos de seres vivos. A respeito dessa árvore, são feitas as seguintes afirmações:\n\nI - As arqueobactérias são mais antigas do que as eubactérias;\n",
+					"description_3":"II - As arqueobactérias são parentes mais próximas dos animais e vegetais do que as eubactérias;\n\nIII - As arqueobactérias e eubactérias apareceram na mesma época geológica;\n\nIV - Arqueobactérias, eubactérias e eucariontes tiveram o mesmo ancestral comum.",
+					"width": 350,
+					"height": 100,
+					"img_code": 235,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"I e II"
+						},
+						{
+							"code":"2",
+							"description":"I e III"
+						},
+						{
+							"code":"3",
+							"description":"I e IV"
+						},
+						{
+							"code":"4",
+							"description":"II e IV"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"36",
+					"description":"Considere a árvore filogenética (Clique em  ?). A presença de notocorda, de tubo nervoso dorsal, de vértebras e de ovo amniótico corresponde, respectivamente, aos retângulos.",
+					"description_2":"Essa árvore representa a simplificação de uma das hipóteses para as relações evolutivas entre os grupos a que pertencem os animais exemplificados.",
+					"description_3":"Os retângulos correspondem a uma ou mais características que são compartilhadas pelos grupos representados acima de cada um deles na árvore e que não estão presentes nos grupos abaixo deles.",
+					"width": 350,
+					"height": 280,
+					"img_code": 236,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"1, 2, 3 e 4"
+						},
+						{
+							"code":"2",
+							"description":"1, 1, 2 e 5"
+						},
+						{
+							"code":"3",
+							"description":"1, 1, 3 e 6"
+						},
+						{
+							"code":"4",
+							"description":"1, 2, 2 e 7"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"37",
+					"description":"O cladograma (Clique em  ?) representa as relações filogenéticas dos vertebrados e os algarismos romanos, os caracteres derivados compartilhados pelos diferentes grupos representados. Nesse cladograma, o surgimento das mandíbulas está representado por:",
+					"width": 350,
+					"height": 338,
+					"img_code": 237,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"I"
+						},
+						{
+							"code":"2",
+							"description":"II"
+						},
+						{
+							"code":"3",
+							"description":"III"
+						},
+						{
+							"code":"4",
+							"description":"IV"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"38",
+					"description":"O tipo de especiação observado (Clique em ?) neste experimento clássico é o(a):",
+					"description_2":"\"Diane Dodd (1989) examinou os efeitos do isolamento e seleção nas moscas da fruta. Ela tirou as moscas da fruta de uma única população e dividiu-as em populações isoladas espacialmente. Metade da população vivia em uma alimentação baseada em maltose e a outra metade vivia em uma alimentação baseada em amido.",
+					"description_3":"Depois de muitas gerações, as moscas foram testadas para saber com quais moscas elas preferem se acasalar. Dodd descobriu que algum tipo de isolamento reprodutivo ocorreu como resultado do isolamento espacial e seleção por diferentes fontes de alimentos nos dois ambientes: ‘moscas da maltose’ preferiram outras ‘moscas da maltose’ e ‘moscas do amido’ preferiram outras ‘moscas do amido’.\"",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Simpátrico"
+						},
+						{
+							"code":"2",
+							"description":"Parapátrico"
+						},
+						{
+							"code":"3",
+							"description":"Alopátrico"
+						},
+						{
+							"code":"4",
+							"description":"Clina padrão"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"39",
+					"description":"Um dos aspectos fundamentais da evolução é a cladogênese. Esse aspecto se refere:",
+					"options":[
+						{
+							"code":"1",
+							"description":"À transformação gradual de espécies a partir de caracteres primitivos"
+						},
+						{
+							"code":"2",
+							"description":"Às apomorfias ou características derivadas"
+						},
+						{
+							"code":"3",
+							"description":"À diversificação de novas espécies a partir de uma espécie ancestral"
+						},
+						{
+							"code":"4",
+							"description":"Às evidências anatômicas da evolução"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"40",
+					"description":"Assinale a alternativa que apresenta o conceito de Especiação Alopátrica:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Duas espécies se formam a partir de uma população em uma mesma região geográfica"
+						},
+						{
+							"code":"2",
+							"description":"Três ou mais espécies surgem a partir de populações de uma espécie ancestral com mutações cromossômicas em uma mesma região geográfica"
+						},
+						{
+							"code":"3",
+							"description":"Mesmo com uma barreira geográfica, não ocorrem mudanças capazes de gerar novas espécies"
+						},
+						{
+							"code":"4",
+							"description":"Duas novas espécies se formam a partir da separação geográfica entre populações de uma espécie ancestral comum"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"41",
+					"description":"Com base nessas informações (Clique em ?), pode-se afirmar que, entre as duas raças de <i>Rhagoletis pomonella</i>, está havendo especiação:",
+					"description_2":"A figura acima ilustra o caso das moscas da maçã, da espécie <i>Rhagoletis pomonella</i>, nativas dos Estados Unidos, que apresenta, atualmente, duas raças: uma se acasala e coloca ovos em espinheiros, também nativos dos EUA, e a outra o faz em macieiras, que foram introduzidas pelos imigrantes europeus.",
+					"description_3":"As duas espécies de plantas ocorrem mescladas no mesmo ambiente, porém, as moscas de ambos os sexos de cada raça tendem a se utilizar de forma exclusiva apenas da espécie de onde se originaram, geralmente não intercruzando com indivíduos originados em plantas de espécie diferente da sua própria.",
+					"width": 335,
+					"height": 193,
+					"img_code": 241,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Alopátrica, pela imposição de barreira geográfica entre as duas populações de moscas"
+						},
+						{
+							"code":"2",
+							"description":"Simpátrica, devido à redução do fluxo gênico por diferença no comportamento de acasalamento"
+						},
+						{
+							"code":"3",
+							"description":"Parapátrica, em função de as duas raças estarem em extremos de uma distribuição descontínua no ambiente"
+						},
+						{
+							"code":"4",
+							"description":"Peripátrica, decorrente da ocorrência de uma das raças na borda da área ocupada por uma população maior da raça que se utiliza do espinheiro"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"42",
+					"description":"No diagrama (Clique em ?), o conjunto DEF é exemplo de uma dessas três classificações;\nBCD, de outra;\nE AB representa um exemplo de um terceiro tipo.\nIdentifique-as.",
+					"description_2":"Um táxon é classificado como parafilético quando inclui alguns, mas não todos, descendentes de um ancestral comum.",
+					"description_3":"Um táxon polifilético contém membros com mais de um ancestral, e um táxon monofilético inclui todos os descendentes de um único ancestral comum.",
+					"width": 260,
+					"height": 200,
+					"img_code": 242,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"DEF, BCD e AB são monofilético, polifilético e parafilético respectivamente"
+						},
+						{
+							"code":"2",
+							"description":"DEF, BCD e AB são monofilético,  parafilético e polifilético respectivamente"
+						},
+						{
+							"code":"3",
+							"description":"DEF, BCD e AB são parafilético, monofilético, polifilético  respectivamente"
+						},
+						{
+							"code":"4",
+							"description":"DEF, BCD e AB são polifilético,  parafilético e monofilético respectivamente"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"43",
+					"description":"O surgimento da característica mencionada (Clique em ?) está representado, no cladograma, pelo número:",
+					"description_2":"O cladograma representada, de forma simplificada, o processo evolutivo de diferentes grupos de vertebrados.",
+					"description_3":"Nesses organismos, o desenvolvimento de ovos protegidos por casca rígida (pergaminácea ou calcárea) possibilitou a conquista do ambiente terrestre.",
+					"width": 304,
+					"height": 190,
+					"img_code": 243,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"1"
+						},
+						{
+							"code":"2",
+							"description":"2"
+						},
+						{
+							"code":"3",
+							"description":"3"
+						},
+						{
+							"code":"4",
+							"description":"4"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"44",
+					"description":"(Clique em ?).\nEsperamos encontrar maior semelhança entre genes de:",
+					"description_2":"Examine a árvore filogenética acima.",
+					"width": 133,
+					"height": 220,
+					"img_code": 244,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Bactéria e protozoário"
+						},
+						{
+							"code":"2",
+							"description":"Peixe e baleia"
+						},
+						{
+							"code":"3",
+							"description":"Baleia e pássaro"
+						},
+						{
+							"code":"4",
+							"description":"Estrela-do-mar e ostra"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"45",
+					"description":"Analisando o cladograma (Clique em ?), pode-se concluir que:",
+					"description_2":"Os fósseis são evidências importantes para a evolução. Tanto os fósseis como as evidências anatômicas indicaram que aves, tartarugas, crocodilianos, lagartos e cobras estão relacionados evolutivamente de forma diferente da classificação tradicional.",
+					"description_3":"O cladograma acima ilustra as relações evolutivas entre esses grupos.",
+					"width": 350,
+					"height": 173,
+					"img_code": 245,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"A seria o ancestral comum de aves, tartarugas e lagartos"
+						},
+						{
+							"code":"2",
+							"description":"B seria o ancestral comum de lagartos, serpentes e crocodilianos"
+						},
+						{
+							"code":"3",
+							"description":"A seria o ancestral mais aparentado com lagartos do que o ancestral B"
+						},
+						{
+							"code":"4",
+							"description":"C seria o ancestral comum de todos os animais citados"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"46",
+					"description":"As características \"cavidade corporal\" e \"exoesqueleto de quitina\" correspondem, respectivamente, aos números (Clique em ?):",
+					"description_2":"O esquema ao lado representa uma das hipóteses para explicar as relações evolutivas entre grupos de animais. A partir do ancestral comum, cada número indica o aparecimento de determinada característica.",
+					"description_3":"Assim, os ramos anteriores a um número correspondem a animais que não possuem tal característica e os ramos posteriores, a animais que a possuem.",
+					"width": 234,
+					"height": 251,
+					"img_code": 246,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"1 e 6"
+						},
+						{
+							"code":"2",
+							"description":"2 e 4"
+						},
+						{
+							"code":"3",
+							"description":"2 e 5"
+						},
+						{
+							"code":"4",
+							"description":"3 e 5"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"47",
+					"description":"Com base na representação (Clique em ?), é INCORRETO afirmar que:",
+					"description_2":"Observe esta representação de parte de uma árvore evolutiva.",
+					"width": 343,
+					"height": 244,
+					"img_code": 247,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"A enguia, o tritão, o lagarto e a cobra possuem ancestral comum"
+						},
+						{
+							"code":"2",
+							"description":"A especiação dos lagartos foi anterior à do tritão"
+						},
+						{
+							"code":"3",
+							"description":"As cobras são mais aparentadas com os lagartos que com as enguias"
+						},
+						{
+							"code":"4",
+							"description":"Parentes distantes, nessa árvore, podem apresentar semelhanças fenotípicas"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"48",
+					"description":"Após analisar o gráfico (Clique em ?), assinale a(s) proposição(ões) CORRETA(S) quanto à evolução dos animais.",
+					"description_2":"A figura acima representa uma das hipóteses para explicar a filogenia animal.",
+					"width": 350,
+					"height": 203,
+					"img_code": 248,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Todos os animais representados possuem ancestralidade comum"
+						},
+						{
+							"code":"2",
+							"description":"A característica mais importante usada para separar os animais em filos distintos é a sua distribuição no ambiente"
+						},
+						{
+							"code":"3",
+							"description":"Os equinodermos são representados na figura acima por animais como minhocas, caramujos e vermes cilíndricos."
+						},
+						{
+							"code":"4",
+							"description":"Os répteis não aparecem representados nessa figura"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"49",
+					"description":"Considere a seguinte filogenia (Clique em ?).\nDe acordo com as informações expressas na filogenia, é correto afirmar que:",
+					"width": 248,
+					"height": 496,
+					"img_code": 249,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"A notocorda e uma estrutura que surgiu há cerca de 542 milhões de anos"
+						},
+						{
+							"code":"2",
+							"description":"A respiração pulmonar nos vertebrados surgiu há mais de 400 milhões de anos"
+						},
+						{
+							"code":"3",
+							"description":"A homeotermia é uma novidade evolutiva surgida no Cenozoico"
+						},
+						{
+							"code":"4",
+							"description":"A coluna vertebral é uma estrutura surgida há cerca de 300 milhões de anos"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"50",
+					"description":"(Clique em ?).\nEstá correto o que se afirma em:",
+					"description_2": "Um dos maiores conceitos unificadores da Biologia diz que toda a vida se conecta por sua história evolutiva. Por isso, estudos filogenéticos têm se tornado cada vez mais importantes, já que, por meio deles, é possível desvendar a história evolutiva dos seres vivos. Em relação a esse assunto, analise as afirmativas a seguir.",
+					"description_3": "I - Uma das principais fontes de informação filogenética é a morfologia, mas qualquer característica geneticamente determinada pode ser usada em análise filogenética.\nII - Uma árvore filogenética é um diagrama que retrata uma reconstrução da história evolutiva de relações entre organismos.\nIII - Em estudos filogenéticos, características compartilhadas por duas ou mais espécies, herdadas de um ancestral comum, denominam-se características homólogas.\nIV - Numa árvore filogenética, denomina-se clado qualquer táxon que agrupa os descendentes evolutivos de um ancestral comum.",
+					"width": 323,
+					"height": 435,
+					"img_code": 250,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"I e II, apenas"
+						},
+						{
+							"code":"2",
+							"description":"I, II, III e IV"
+						},
+						{
+							"code":"3",
+							"description":"II, III e IV, apenas"
+						},
+						{
+							"code":"4",
+							"description":"I, II e III, apenas"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"51",
+					"description":"Com base no cladograma simplificado dos vertebrados (Clique em ?), assinale a alternativa correta.",
+					"width": 350,
+					"height": 290,
+					"img_code": 251,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"O cladograma apresenta vários eventos de anagênese, representados nos nós A, B e C. A cladogênese, por sua vez, está representada ao longo da linha do tempo relativo"
+						},
+						{
+							"code":"2",
+							"description":"A letra A corresponde ao primeiro nó de um evento de cladogênese e representa o ancestral comum a todos os seres vivos"
+						},
+						{
+							"code":"3",
+							"description":"Cada um dos terminais (1 a 4) representa grupos descendentes de diferentes grupos ancestrais, sendo formado por seres que compartilham a condição derivada de um caractere"
+						},
+						{
+							"code":"4",
+							"description":"Os grupos dos ramos 3 e 4 são mais aparentados entre si, comparados aos grupos dos ramos 1 e 2"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"52",
+					"description":"Com base nas informações apresentadas no texto e no cladograma (Clique em ?), é correto afirmar que a rádula teria surgido em:",
+					"description_2": "Um grupo de moluscos pertencente a classe dos gastrópodes, conhecidos como lapas, são os portadores do material biológico mais rígido e resistente de que se tem conhecimento, superando o das teias de aranhas. Esse material está presente nos \"dentes\" desses animais em uma estrutura chamada de rádula, que eles utilizam para raspar e engolir seus alimentos.",
+					"description_3": "Essa estrutura, no entanto, não é exclusiva das lapas, mas é encontrada em quase todos os moluscos, com exceção dos bivalves.\nProvavelmente a rádula teria surgido no ancestral comum exclusivo de todos os moluscos. Observe o cladograma que mostra as relações evolutivas entre os moluscos e outros grupos de animais. Os números indicam momentos nos quais teriam ocorrido transformações de alguma característica ao longo da evolução desses seres.",
+					"width": 350,
+					"height": 320,
+					"img_code": 252,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"1 e teria sido perdida em 7 e 8"
+						},
+						{
+							"code":"2",
+							"description":"1 e teria sido perdida em 4"
+						},
+						{
+							"code":"3",
+							"description":"1 e teria sido perdida em 6"
+						},
+						{
+							"code":"4",
+							"description":"2 e teria sido perdida em 13"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"53",
+					"description":"Analise o diagrama (Clique em ?) e indique a espécie que, provavelmente, vem há muito tempo apresentando um alto grau de adaptação ao seu ambiente.",
+					"description_2": "Os diagramas acima representam os caminhos evolutivos a partir de duas espécies hipotéticas (X e J), onde as setas indicam o sentido da evolução ao longo do tempo.",
+					"width": 350,
+					"height": 180,
+					"img_code": 253,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"X"
+						},
+						{
+							"code":"2",
+							"description":"R"
+						},
+						{
+							"code":"3",
+							"description":"J"
+						},
+						{
+							"code":"4",
+							"description":"N"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"54",
+					"description":"A diferença básica nas classificações citadas (Clique em ?) é que a mais recente se baseia fundamentalmente em:",
+					"description_2":"A classificação biológica proposta por Whittaker permite distinguir cinco grandes linhas evolutivas utilizando, como critérios de classificação, a organização celular e o modo de nutrição.",
+					"description_3":"Woese e seus colaboradores, com base na comparação das sequências que codificam o RNA ribossômico dos seres vivos, estabeleceram relações de ancestralidade entre os grupos e concluíram que os procariontes do reino Monera não eram um grupo coeso do ponto de vista evolutivo.",
+					"width": 311,
+					"height": 177,
+					"img_code": 254,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Tipos de células"
+						},
+						{
+							"code":"2",
+							"description":"Aspectos ecológicos"
+						},
+						{
+							"code":"3",
+							"description":"Relações filogenéticas"
+						},
+						{
+							"code":"4",
+							"description":"Propriedades fisiológicas"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"55",
+					"description":"Com base na figura (Clique em ?), nos princípios da filogenia e considerando que cada característica herdada evoluiu uma única vez, é correto afirmar que as características:",
+					"description_2":"A figura acima representa uma filogenia provável para alguns grupos pertencentes aos cordados.",
+					"width": 350,
+					"height": 160,
+					"img_code": 255,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Herdadas por dois grupos distintos e derivadas do mesmo ancestral são consideradas análogas"
+						},
+						{
+							"code":"2",
+							"description":"Ausentes no ancestral comum, como pulmões, e presentes em vários grupos são denominadas derivadas"
+						},
+						{
+							"code":"3",
+							"description":"Ocorrentes em vários grupos e herdadas do mesmo ancestral são resultado de homoplasia"
+						},
+						{
+							"code":"4",
+							"description":"Herdadas de um ancestral mais recente devem ser compartilhadas por mais grupos do que aquelas de um ancestral mais distante"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"56",
+					"description":"(Clique em ?).\nOs fenômenos envolvidos nos processos evolutivos A, B, C e D correspondem, respectivamente:",
+					"description_2":"As figuras acima representam alguns processos evolutivos.",
+					"width": 350,
+					"height": 117,
+					"img_code": 256,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Anagênese, convergência evolutiva, irradiação adaptativa, cladogênese"
+						},
+						{
+							"code":"2",
+							"description":"Anagênese, irradiação adaptativa, convergência evolutiva, cladogênese"
+						},
+						{
+							"code":"3",
+							"description":"Convergência evolutiva, anagênese, cladogênese, irradiação adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Cladogênese, anagênese, convergência evolutiva, irradiação adaptativa"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"57",
+					"description":"O filo dos invertebrados mais relacionado ao homem é aquele que inclui as estrelas-do-mar, ou seja, os equinodermas. A justificativa para essa conclusão surpreendente foi baseada principalmente no estudo comparativo:",
+					"options":[
+						{
+							"code":"1",
+							"description":"do desenvolvimento embrionário"
+						},
+						{
+							"code":"2",
+							"description":"da simetria dos organismos"
+						},
+						{
+							"code":"3",
+							"description":"do documentário fóssil"
+						},
+						{
+							"code":"4",
+							"description":"da fisiologia"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"58",
+					"description":"(Clique em ?).\nPara esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por:",
+					"description_2":"Embora seja um conceito fundamental para a biologia, o termo \"evolução\" pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Incremento no tamanho corporal"
+						},
+						{
+							"code":"2",
+							"description":"Modificação de características"
+						},
+						{
+							"code":"3",
+							"description":"Complexiflcação de seus sistemas"
+						},
+						{
+							"code":"4",
+							"description":"Melhoria de processos e estruturas"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"59",
+					"description":"Os possíveis ancestrais das plantas com flor descendem de um grupo de algas verdes. Considerando-se essa informação, é INCORRETO afirmar que os dois grupos mencionados têm em comum:",
+					"options":[
+						{
+							"code":"1",
+							"description":"A clorofila como pigmento fotossintetizante"
+						},
+						{
+							"code":"2",
+							"description":"A parede celular com celulose"
+						},
+						{
+							"code":"3",
+							"description":"O glicogênio como fonte de energia"
+						},
+						{
+							"code":"4",
+							"description":"Os pigmentos acessórios de diversas cores"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"60",
+					"description":"Marque a alternativa incorreta:",
+					"options":[
+						{
+							"code":"1",
+							"description":"A cladística é um método filogenético, e não o contrário"
+						},
+						{
+							"code":"2",
+							"description":"A cladística busca reunir, em um mesmo grupo, grupos de organismo que possuem história evolutiva em comum"
+						},
+						{
+							"code":"3",
+							"description":"Organismos com história evolutiva em comum apresentam apomorfias, ou seja: características derivadas, ausentes no ancestral de ambas"
+						},
+						{
+							"code":"4",
+							"description":"Plesiomorfias podem ser consideradas novidades evolutivas"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"61",
+					"description":"Leia o texto (Clique em ?).\nA presença dos quatro membros, neste grupo, é um caractere:",
+					"description_2": "Os tetrápodes são gnatostomados com membros, incluindo os anfíbios, os répteis, as aves e os mamíferos. No lugar das nadadeiras, os tetrápodes têm quatro membros, que sustentam o seu corpo no ambiente terrestre.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Compartilhado derivado"
+						},
+						{
+							"code":"2",
+							"description":"Compartilhado análogo"
+						},
+						{
+							"code":"3",
+							"description":"Compartilhado ancestral"
+						},
+						{
+							"code":"4",
+							"description":"Resultante de evolução convergente"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"62",
+					"description":"Leia o texto (Clique em ?).\nEstá(ão) correta(s), apenas:",
+					"description_2": "A sistemática filogenética ou cladística tem como propósito estudar a evolução das espécies. Assim, mudanças significativas estão ocorrendo em classificações baseadas nos sistemas tradicionais, tais como características morfológicas, entre outras. Identifique os conceitos importantes na sistemática cladística",
+					"description_3": "1 - Plesiomorfia representa a condição mais antiga de um caráter.\n2 - Sinapomorfia é o compartilhamento de uma característica plesiomórfica.\n3 - Apomorfia representa a condição surgida pela transformação hereditária.\n4 - Plesiomorfia representa uma condição derivada de uma característica anterior.\n5 - Apomorfia representa uma condição derivada de uma característica anterior.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"1, 3 e 5"
+						},
+						{
+							"code":"2",
+							"description":"1 e 2"
+						},
+						{
+							"code":"3",
+							"description":"4 e 5"
+						},
+						{
+							"code":"4",
+							"description":"2, 3 e 4"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				}
+			]
+		},
+		{
+			"code":"3",
+			"name":"Evidências da Evolução",
+			"description":"Humano x Cão",
+			"color1":"#f76e6e",
+			"color2": "#f88080",
+			"width": 100,
+			"height": 160,
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"Qual das alternativas apresenta um par de estruturas homólogas?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Asa de morcego e asa de borboleta"
+						},
+						{
+							"code":"2",
+							"description":"Carapaça de tatu e concha de caramujo"
+						},
+						{
+							"code":"3",
+							"description":"Nadadeira de peixe e asa de borboleta"
+						},
+						{
+							"code":"4",
+							"description":"Asa de ave e asa de morcego"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"2",
+					"description":"Quando a semelhança entre estruturas animais não é sinal de parentesco, mas conseguida pela ação da seleção natural sobre espécies de origens diferentes, fala-se em:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"Isolamento reprodutivo"
+						},
+						{
+							"code":"3",
+							"description":"Irradiação adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Isolamento geográfico"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"3",
+					"description":"As suculentas muitas vezes são confundidas entre si por apresentarem características morfológicas semelhantes, como a ausência de folhas e a presença de caule fotossintético, conforme ilustram as imagens (Clique em  ?). Essa semelhança morfológica é uma consequência do seguinte processo:",
+					"width": 350,
+					"height": 300,
+					"img_code": 33,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Deriva genética"
+						},
+						{
+							"code":"2",
+							"description":"Seleção artificial"
+						},
+						{
+							"code":"3",
+							"description":"Irradiação evolutiva"
+						},
+						{
+							"code":"4",
+							"description":"Convergência adaptativa"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"4",
+					"description":"Em relação às evidências da evolução biológica, é correto afirmar que:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Um órgão vestigial, como o apêndice vermiforme no homem, não é evidência da evolução, porque é uma estrutura atrofiada e sem função aparente"
+						},
+						{
+							"code":"2",
+							"description":"A pata dianteira de um cavalo e a asa de um morcego constituem evidência da evolução, porque são estruturas homólogas, apesar de o cavalo ter perdido os dedos, enquanto no morcego estes não só foram mantidos como alongados"
+						},
+						{
+							"code":"3",
+							"description":"A asa de uma ave e o élitro (asa dura) de um besouro podem ser considerados como evidência da evolução, porque são estruturas análogas, que possuem origem embriológica"
+						},
+						{
+							"code":"4",
+							"description":"Os fósseis constituem uma evidência da evolução, porque mostram que os organismos atuais são mais especializados e mais adaptados que os extintos"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"5",
+					"description":"Quando a semelhança entre estruturas animais não é sinal de parentesco, mas conseguida pela ação da seleção natural sobre espécies de origens diferentes, fala-se em:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"Isolamento reprodutivo"
+						},
+						{
+							"code":"3",
+							"description":"Irradiação adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Isolamento geográfico"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"6",
+					"description":"Com relação à evolução, observe as afirmativas (Clique em ?) e assinale a opção correta:",
+					"description_2":"I - A explicação mais lógica para as semelhanças estruturais entre seres vivos com aspectos e modos de vida diferentes é que eles descendem de um mesmo ancestral.\n",
+					"description_3":"II - A semelhança entre as proteínas de diferentes seres vivos pode ser explicada admitindo-se que esses seres tenham tido um ancestral comum.\n\nIII. A teoria que admite que as espécies não se alteram no decorrer dos tempos denomina-se fixismo.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Apenas I e II estão corretas"
+						},
+						{
+							"code":"2",
+							"description":"Apenas II e III estão corretas"
+						},
+						{
+							"code":"3",
+							"description":"Apenas I e III estão corretas"
+						},
+						{
+							"code":"4",
+							"description":"Todas estão corretas"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"7",
+					"description":"Em relação ao texto (Clique em ?), responda:",
+					"description_2": "Uma planta conhecida como ruibarbo do deserto, comum nos desertos de Israel e da Jordânia, apresenta de 1 a 4 grandes folhas arredondadas (20 a 70 cm de diâmetro), bem presas ao solo, formando rosetas que podem chegar a 1 metro quadrado.\nEm cada folha, há ainda um delicado sistema de “canaletas” que drena a água recolhida da chuva até a raiz principal.",
+					"description_3": "Com o desenvolvimento desse sistema de autoirrigação, o ruibarbo do deserto consegue suportar a escassez de chuva comum dos desertos.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Faz clara referência ao fixismo"
+						},
+						{
+							"code":"2",
+							"description":"Aproxima-se das ideias evolucionistas de Darwin"
+						},
+						{
+							"code":"3",
+							"description":"Exemplifica um processo de adaptação evolutiva chamado divergência evolutiva"
+						},
+						{
+							"code":"4",
+							"description":"Retrata, com riqueza de detalhes, um típico caso de convergência evolutiva"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"8",
+					"description":"Um peixe (tubarão), um réptil fóssil (ictiossauro) e um mamífero (golfinho) possuem todos a forma do corpo alongada, com nadadeiras dorsais, ventrais e caudais.\nEssas características, analisadas em conjunto, podem ser interpretadas como um exemplo de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Irradiação adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"Isolamento reprodutivo"
+						},
+						{
+							"code":"3",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Homologia"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"9",
+					"description":"<i>Peckoltia vittata</i> é um peixe-cascudo que atinge 10 cm de comprimento total, endêmico do Rio Xingu. Suas listras verticais ao longo do corpo, pretas e amarelas, assemelham-se às dos tigres asiáticos.\nPodemos dizer que o padrão de coloração e a distribuição das listras verticais no corpo desses <i>Chordata</i> são exemplos de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Homologia"
+						},
+						{
+							"code":"2",
+							"description":"Homoplasia"
+						},
+						{
+							"code":"3",
+							"description":"Autapomorfia de <i>Actinopterygii</i>"
+						},
+						{
+							"code":"4",
+							"description":"Plesiomorfia de <i>Chordata</i>"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"10",
+					"description":"Os animais apresentam características baseadas no número de folhetos embrionários, os Cnidários são animais diblástico, os Platelmintos já apresentam três folhetos embrionários sendo considerados triblásticos, esses caracteres podem ser considerados como:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Simplesiomorfia"
+						},
+						{
+							"code":"2",
+							"description":"Plesiomorfia"
+						},
+						{
+							"code":"3",
+							"description":"Homoplasia"
+						},
+						{
+							"code":"4",
+							"description":"Apomorfia"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"11",
+					"description":"As angiospermas são grupos de vegetais que possuem flores e sementes encerradas no interior de frutos sendo considerada uma característica derivada, presente somente nesses vegetais, essa característica é denominada:",
+					"width": 120,
+					"height": 120,
+					"img_code": 311,
+					"options":[
+						{
+							"code":"1",
+							"description":"Autopomorfia"
+						},
+						{
+							"code":"2",
+							"description":"Simplesiomorfia"
+						},
+						{
+							"code":"3",
+							"description":"Morfia"
+						},
+						{
+							"code":"4",
+							"description":"Plesiomorfia"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"12",
+					"description":"Adaptações dos organismos são um aspecto central da manutenção da vida. Algumas espécies como a raposa-do-ártico (<i>Alopex lagopus</i>), o bicho-folha da espécie <i>Typophyllum bolivari</i>, inseto cuja forma e coloração assemelham-se a folhas em decomposição.\nEsta característica é chamada de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Mimetismo"
+						},
+						{
+							"code":"2",
+							"description":"Camuflagem"
+						},
+						{
+							"code":"3",
+							"description":"Homocromia"
+						},
+						{
+							"code":"4",
+							"description":"Coloração de advertência"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"13",
+					"description":"Os elefantes são os únicos mamíferos com desenvolvimento de tromba (probóscide).\nEstes animais apresentam uma característica derivada denominada de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Plesiomorfia"
+						},
+						{
+							"code":"2",
+							"description":"Autopomorfia"
+						},
+						{
+							"code":"3",
+							"description":"Simplesiomorfia"
+						},
+						{
+							"code":"4",
+							"description":"Morfia"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"14",
+					"description":"O conceito contido no texto (Clique em ?), faz referência à:",
+					"description_2": "Uma população numerosa pode ampliar seu habitat e, assim, ocupar novos ambientes, caracterizados por diferentes fatores de seleção natural.",
+					"description_3": "Ao longo de milhares de anos e gerações, é natural que surjam novas espécies, as quais ainda apresentam algumas características em comum, por terem sido originadas a partir de um mesmo grupo ancestral.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Analogia evolutiva"
+						},
+						{
+							"code":"2",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"3",
+							"description":"Coevolução"
+						},
+						{
+							"code":"4",
+							"description":"Irradiação adaptativa"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"15",
+					"description":"São tipos de mecanismos de isolamento reprodutivos pós-zigóticos (Clique em ?):",
+					"description_2": "A especiação é a denominação para um conjunto de processos que dão origem a novas espécies.",
+					"description_3": "A especiação geralmente envolve o desenvolvimento de barreiras de isolamento reprodutivo que podem ser pré-zigóticas ou pós-zigóticas.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Isolamento sazonal, isolamento etológico e isolamento mecânico"
+						},
+						{
+							"code":"2",
+							"description":"Isolamento sazonal, inviabilidade do embrião e fertilidade reduzida do híbrido"
+						},
+						{
+							"code":"3",
+							"description":"Mortalidade zigótica, inviabilidade do embrião e esterilidade do híbrido"
+						},
+						{
+							"code":"4",
+							"description":"Mortalidade zigótica, inviabilidade do embrião e incompatibilidade anatômica"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"16",
+					"description":"Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação).\nEssa especiação não ocorre devido ao(a):",
+					"options":[
+						{
+							"code":"1",
+							"description":"Oscilação genética das raças"
+						},
+						{
+							"code":"2",
+							"description":"Seleção natural que ocorre entre as raças"
+						},
+						{
+							"code":"3",
+							"description":"Manutenção do fluxo gênico entre as raças"
+						},
+						{
+							"code":"4",
+							"description":"Convergência adaptativa entre raças"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"17",
+					"description":"Durante sua evolução, as plantas apresentaram grande diversidade de características, as quais permitiram sua sobrevivência em diferentes ambientes. Na imagem (clique em ?), cinco dessas características estão indicadas por números. A aquisição evolutiva que permitiu a conquista definitiva do ambiente terrestre pelas plantas está indicada pelo número:",
+					"width": 331,
+					"height": 324,
+					"img_code": 317,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"1"
+						},
+						{
+							"code":"2",
+							"description":"2"
+						},
+						{
+							"code":"3",
+							"description":"3"
+						},
+						{
+							"code":"4",
+							"description":"4"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"18",
+					"description":"A figura (Clique em ?) mostra folhas distintas, porém derivadas de um ancestral comum. O Compartilhamento destas características é definida como:",
+					"width": 310,
+					"height": 200,
+					"description_2":"Baseado na teoria da evolução os seres vivos como os vegetais irão compartilhar semelhanças que são derivadas de ancestrais comuns.",
+					"img_code": 318,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Homoplasia"
+						},
+						{
+							"code":"2",
+							"description":"Analogia"
+						},
+						{
+							"code":"3",
+							"description":"Plesiomorfia"
+						},
+						{
+							"code":"4",
+							"description":"Homologia"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"19",
+					"description":"O estudo científico dos processos evolutivos é fundamentado em análises criteriosas de características observadas em diferentes grupos de seres vivos. A figura (Clique em ?) ilustra os ossos constituintes dos membros anteriores de quatro grupos de vertebrados:",
+					"width": 306,
+					"height": 266,
+					"img_code": 319,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Colorações utilizadas nos desenhos dos ossos representam estruturas"
+						},
+						{
+							"code":"2",
+							"description":"Diferenciadas na função, indicando analogia evolutiva"
+						},
+						{
+							"code":"3",
+							"description":"Transformadas fenotipicamente, porém com mesmo genótipo"
+						},
+						{
+							"code":"4",
+							"description":"Com a mesma origem embrionária, indicando homologia"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"20",
+					"description":"Clique em (?). Essas adaptações são evidências evolutivas relacionadas:",
+					"width": 315,
+					"height": 250,
+					"description_2":"O Petaurus breviceps, é um pequeno marsupial australiano dotado de uma membrana que liga os membros anteriores aos posteriores, formando uma espécie de asa que permite ao animal planar de uma árvore a outra. O esquilo voador, encontrado nas florestas da América do Norte, apresenta semelhante adaptação, mas estes animais são descendentes de diferentes ancestrais evolutivos.",
+					"img_code": 320,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Ao isolamento reprodutivo"
+						},
+						{
+							"code":"2",
+							"description":"À evolução convergente"
+						},
+						{
+							"code":"3",
+							"description":"À irradiação adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Ao isolamento geográfico"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"21",
+					"description":"As espécies mostradas (Clique em ?) são um exemplo de:",
+					"width": 350,
+					"height": 199,
+					"description_2":"[...] Um dos registros importantes que Peloso presenciou foi o do \"sapo-morcego\". A espécie chamou atenção dos observadores pela habilidade especial de se comunicar por meio de cantos de alta frequência. O estilo agudo e potente do som fez os pesquisadores se lembrarem da vocalização de um morcego.",
+					"description_3":"[...] Outra descoberta feita durante esse período foi a da <i>Myrmecium nogueirai</i>, uma das 141 novas espécies de aracnídeos catalogadas entre 2014 e 2018. O diferencial dela está no visual: com aparência de formiga, a aranha utiliza da vantagem do disfarce para se passar como inofensiva e conseguir se aproximar de presas.",
+					"img_code": 321,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Camuflagem"
+						},
+						{
+							"code":"2",
+							"description":"Coloração de advertência"
+						},
+						{
+							"code":"3",
+							"description":"Mimetismo"
+						},
+						{
+							"code":"4",
+							"description":"Homocromia"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"22",
+					"description":"Considerando essas informações (Clique em ?), é CORRETO afirmar que as plantas da figura representam um caso evolutivo de:",
+					"width": 350,
+					"height": 178,
+					"description_2":"O nome cacto é atribuído a plantas da família <i>Cactaceae</i>. Os cactos são conhecidos, dentre outras características, pela presença de inúmeros espinhos caulinares e capacidade de armazenar água.",
+					"description_3":"No entanto, algumas espécies de plantas que apresentam esse mesmo aspecto vegetal pertencem à família <i>Euphorbiaceae</i>, ou seja, têm maior parentesco evolutivo com plantas tais como a mandioca e a seringueira. A figura acima mostra a semelhança entre essas plantas.",
+					"img_code": 322,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Homologia"
+						},
+						{
+							"code":"2",
+							"description":"Camuflagem"
+						},
+						{
+							"code":"3",
+							"description":"Herança de caracteres adquiridos"
+						},
+						{
+							"code":"4",
+							"description":"Analogia (homoplasia)"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"23",
+					"description":"Nos estudos de evolução, podemos reconstruir o padrão filogenético de um grupo a partir da identificação de estados de caráter derivados compartilhados (sinapomorfia). Nesse caso, a sinapomorfia indica (Clique em ?):",
+					"width": 350,
+					"height": 150,
+					"description_2":"A presença de um orifício na região pélvica, denominada de acetábulo, onde se encaixa o fêmur, é uma das características que encontramos apenas nos dinossauros.",
+					"img_code": 323,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Uma prova da extinção dos dinossauros"
+						},
+						{
+							"code":"2",
+							"description":"A existência de ancestrais comuns exclusivos"
+						},
+						{
+							"code":"3",
+							"description":"Uma prova bioquímica e cromossômica da evolução"
+						},
+						{
+							"code":"4",
+							"description":"A existência de órgão vestigial entre dinossauros e répteis"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"24",
+					"description":"Na biologia a semelhança fenotípica entre tubarões e golfinhos é explicada como resultado de um processo conhecido por (Clique em ?):",
+					"description_2": "No filme Espanta Tubarões (Estúdios DreamWorks, 2004), Lenny, um tubarão vegetariano que deseja a amizade dos outros peixes, disfarça-se em golfinho e consegue enganar até mesmo outros tubarões.\nNo filme, a transformação não é muito difícil: Lenny coloca um focinho falso e um pouco de maquiagem.",
+					"description_3": "Embora o filme veicule uma série de incorreções biológicas, uma vez que se trata de uma fantasia, há uma semelhança fenotípica.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Camuflagem"
+						},
+						{
+							"code":"2",
+							"description":"Homologia"
+						},
+						{
+							"code":"3",
+							"description":"Divergência adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Convergência adaptativa"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"25",
+					"description":"Duas espécies vegetais são encontradas no mesmo bioma, mas em diferentes continentes. Embora as duas espécies não sejam taxonomicamente relacionadas, são morfologicamente semelhantes como resultado de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Evolução paralela"
+						},
+						{
+							"code":"2",
+							"description":"Especiação alopátrica"
+						},
+						{
+							"code":"3",
+							"description":"Evolução convergente"
+						},
+						{
+							"code":"4",
+							"description":"Coevolução"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"26",
+					"description":"Analise a tirinha e as afirmações (Clique em ?), em seguida assinale a alternativa sobre o fenômeno referido:",
+					"description_2":"I - As adaptações apresentadas no primeiro quadrinho, presentes em pássaros e baratas, são convergências adaptativas;\n\nII - As asas das aves e as asas das baratas são órgãos análogos;\n",
+					"description_3":"III - A presença de órgãos análogos entre duas espécies indica parentesco evolutivo.",
+					"width": 350,
+					"height": 115,
+					"img_code": 326,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Se somente a afirmativa II for correta"
+						},
+						{
+							"code":"2",
+							"description":"Se somente as afirmativas I e II forem corretas"
+						},
+						{
+							"code":"3",
+							"description":"Se somente as afirmativas II e III forem corretas"
+						},
+						{
+							"code":"4",
+							"description":"Se as afirmativas I, II e III forem corretas"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"27",
+					"description":"As semelhanças de formato dos corpos e dos membros locomotores nos animais representados (Clique em ?) decorrem:",
+					"description_2": "Na figura estão representados exemplares de peixes, de aves e de mamíferos.",
+					"width": 360,
+					"height": 174,
+					"img_code": 327,
+					"img_tela_2": 1,
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Da mutação que ocorre nos indivíduos em resposta às exigências adaptativas de ambientes com diferentes características, o que leva à irradiação adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"Da ação da seleção natural atuando sobre indivíduos em ambientes com diferentes características, o que leva à convergência adaptativa"
+						},
+						{
+							"code":"3",
+							"description":"Da ação da seleção natural atuando sobre indivíduos em ambientes com as mesmas características, o que leva à convergência adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Da mutação que ocorre casualmente em indivíduos que vivem em ambientes com as mesmas características, o que leva à irradiação adaptativa"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"28",
+					"description":"A evolução é um processo que acontece constantemente na vida de todos os organismos vivos do planeta. Contudo, há diversas formas de evidenciar o processo evolutivo dos organismos, como por exemplo, através do estudo dos fósseis. A respeito do estudo dos fósseis, assinale a alternativa correta:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Os fósseis não promovem evidências de que as espécies que viveram há milhares de anos são diferentes das espécies que vivem atualmente"
+						},
+						{
+							"code":"2",
+							"description":"O estudo do registro fóssil permite entender como eram as condições climáticas e ambientais na época em que um determinado organismo viveu"
+						},
+						{
+							"code":"3",
+							"description":"Uma técnica muito utilizada para descobrir a idade de um fóssil é a datação com carbono 19"
+						},
+						{
+							"code":"4",
+							"description":"O processo de evolução das espécies é observado claramente através de estudos dos fósseis, uma vez que não há falhas no registro fóssil"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"29",
+					"description":"A semelhança indicada no texto (Clique em ?) resulta de:",
+					"description_2":"A figura acima apresenta a árvore filogenética indicando que o hipopótamo é o parente evolutivo mais próximo da baleia.",
+					"description_3":"Entretanto, outros animais como crocodilos e rãs, que possuem ancestrais diferentes dos hipopótamos e demais apresentados na árvore, possuem a característica comum de que, quando estão com seus corpos submersos na água, mantêm os olhos e as narinas alinhados, rentes à superfície da água.",
+					"width": 325,
+					"height": 238,
+					"img_code": 329,
+					"curiosidade": 1,
+					"img_tela_2": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"Irradiação adaptativa"
+						},
+						{
+							"code":"3",
+							"description":"Deriva genética adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Mimetismo adaptativo"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"30",
+					"description":"Órgãos vestigiais identificados em muitas espécies animais constituem dados que subsidiam estudos da evolução porque:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Atuam nas novas gerações com funções diferentes"
+						},
+						{
+							"code":"2",
+							"description":"Fortalecem a hipótese de que o uso e o desuso de um órgão aumentam ou diminuem, respectivamente, o seu tamanho"
+						},
+						{
+							"code":"3",
+							"description":"Podem ser indicadores de ancestralidade comum entre espécies"
+						},
+						{
+							"code":"4",
+							"description":"Permitem o estabelecimento de comparações entre as teorias de Darwin e de Lamarck"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"31",
+					"description":"Com relação à figura a seguir, podemos afirmar que a semelhança morfológica entre os dois tipos de asas",
+					"width":314,
+					"height":110,
+					"img_code": 331,
+					"options":[
+						{
+							"code":"1",
+							"description":"É o resultado da adaptação à execução de uma mesma função"
+						},
+						{
+							"code":"2",
+							"description":"É consequência da irradiação adaptativa"
+						},
+						{
+							"code":"3",
+							"description":"Mostra homologia entre elas"
+						},
+						{
+							"code":"4",
+							"description":"Comprova a ancestralidade comum"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"32",
+					"description":"Assinale a alternativa que menciona, corretamente, o que pode significar, sob o ponto de vista evolutivo, o fato de animais com características primitivas, como as esponjas, terem sido um dos primeiros a se formar e serem abundantes até hoje.",
+					"options":[
+						{
+							"code":"1",
+							"description":"Sua estratégia evolutiva não foi bem-sucedida"
+						},
+						{
+							"code":"2",
+							"description":"A seleção natural não atuou sobre as esponjas"
+						},
+						{
+							"code":"3",
+							"description":"As esponjas mostraram adaptação às pressões ambientais"
+						},
+						{
+							"code":"4",
+							"description":"Não foram expostos a nenhum tipo de pressão ambiental"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"33",
+					"description":"O tubarão, peixe cartilaginoso, e o golfinho, mamífero cetáceo, filogeneticamente distintos, apresentam grande similaridade quanto à forma hidrodinâmica e aos apêndices locomotores.\nO mecanismo evolutivo que explica tal similaridade é:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"Analogia estrutural"
+						},
+						{
+							"code":"3",
+							"description":"Irradiação adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Homologia evolutiva"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"34",
+					"description":"Observe a figura a seguir.\nDo ponto de vista evolutivo, a semelhança na forma do corpo dos três animais:",
+					"width":163,
+					"height":120,
+					"img_code": 334,
+					"options":[
+						{
+							"code":"1",
+							"description":"É consequência de irradiação adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"É resultado da adaptação desses organismos ao ambiente aquático"
+						},
+						{
+							"code":"3",
+							"description":"Mostra homologia entre eles"
+						},
+						{
+							"code":"4",
+							"description":"Comprova a ancestralidade comum"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"35",
+					"description":"A frase popular:\n\"… a baleia já foi terrestre…\"\nSignifica, em termos evolutivos, que a baleia:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Em tempos remotos rastejava no ambiente terrestre"
+						},
+						{
+							"code":"2",
+							"description":"Era adaptada para viver na água como peixe e na terra como réptil"
+						},
+						{
+							"code":"3",
+							"description":"Atualmente é um peixe, mas seu ancestral era mamífero"
+						},
+						{
+							"code":"4",
+							"description":"Teve um ancestral distante que viveu em terra firme"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"36",
+					"description":"O estudo dos órgãos homólogos em animais revela aspectos importantes sobre a evolução dos seres vivos.\nAssinale a alternativa que apresenta apenas órgãos considerados homólogos",
+					"options":[
+						{
+							"code":"1",
+							"description":"Pata de cavalo; braço humano; nadadeira de baleia; asa de ave"
+						},
+						{
+							"code":"2",
+							"description":"Braço humano; asa de ave; asa de morcego; asa de inseto"
+						},
+						{
+							"code":"3",
+							"description":"Nadadeira de baleia; nadadeira de peixe; asa de ave; asa de inseto"
+						},
+						{
+							"code":"4",
+							"description":"Nadadeira de baleia; nadadeira de peixe; asa de morcego; asa de inseto"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"37",
+					"description":"Assinale a alternativa que mostra um exemplo de estruturas análogas, ou seja, estruturas que evoluíram independentemente e resultaram de adaptações funcionais às mesmas condições ambientais.\n(Clique em ?)",
+					"description_2": "Dentre as evidências da evolução biológica estão aquelas fornecidas pelo estudo da anatomia comparada, que trouxe os conceitos de órgãos ou estruturas homólogas e órgãos ou estruturas análogas.",
+					"curiosidade": 1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Os braços humanos e as asas das aves"
+						},
+						{
+							"code":"2",
+							"description":"O apêndice cecal do intestino humano e o do intestino dos coelhos"
+						},
+						{
+							"code":"3",
+							"description":"As asas das aves e as asas dos insetos"
+						},
+						{
+							"code":"4",
+							"description":"As nadadeiras das baleias a as asas dos morcegos"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"38",
+					"description":"Recentes análises do DNA de chimpanzés permitiram concluir que o homem é mais aparentado com eles do que com qualquer outro primata.\nIsso permite concluir que:",
+					"options":[
+						{
+							"code":"1",
+							"description":"O chimpanzé é ancestral do homem"
+						},
+						{
+							"code":"2",
+							"description":"O chimpanzé e o homem têm um ancestral comum"
+						},
+						{
+							"code":"3",
+							"description":"O homem e o chimpanzé são ancestrais dos gorilas"
+						},
+						{
+							"code":"4",
+							"description":"A evolução do homem não foi gradual"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"39",
+					"description":"(Clique em ?)\nA(s) afirmativa(s) correta(s) é(são):",
+					"description_2":"A análise do quadro anterior permite fazer as seguintes afirmativas:\nI - O grau de parentesco entre o gorila e o homem é maior que entre este e o chimpanzé;",
+					"description_3": "II - A sequência de aminoácidos existentes na proteína do gibão é uma evidência de que, evolutivamente, ele está mais afastado do homem do que o macaco <i>Rhesus</i>;\nIII - Provavelmente a grande distância evolutiva entre o homem e outras espécies deve-se à existência de mutações ocorridas no DNA.",
+					"width":349,
+					"height":184,
+					"img_code":339,
+					"img_tela_2":1,
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"I, apenas"
+						},
+						{
+							"code":"2",
+							"description":"II, apenas"
+						},
+						{
+							"code":"3",
+							"description":"III, apenas"
+						},
+						{
+							"code":"4",
+							"description":"I e III, apenas"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"40",
+					"description":"Com base nesses dados (Clique em ?), podemos inferir que os dois organismos mais aparentados do ponto de vista evolutivo são:",
+					"description_2":"Observe e analise a tabela acima.",
+					"width":347,
+					"height":200,
+					"img_code":340,
+					"img_tela_2":1,
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"A e B"
+						},
+						{
+							"code":"2",
+							"description":"A e C"
+						},
+						{
+							"code":"3",
+							"description":"B e C"
+						},
+						{
+							"code":"4",
+							"description":"C e D"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"41",
+					"description":"(Clique em ?)\nSobre esses animais, podemos afirmar:",
+					"description_2":"Os animais acima apresentam em comum um mecanismo evolutivo conhecido como Convergência Evolutiva.",
+					"width":323,
+					"height":356,
+					"img_code":341,
+					"img_tela_2":1,
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Possuem Órgãos Homólogos"
+						},
+						{
+							"code":"2",
+							"description":"Conquistaram habitats distintos"
+						},
+						{
+							"code":"3",
+							"description":"Pertencem à mesma classe taxonômica"
+						},
+						{
+							"code":"4",
+							"description":"Apresentam modos de vida semelhantes"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"42",
+					"description":"(Clique em ?)\nA alternativa que contém o somatório de todos os itens corretos é:",
+					"description_2":"Responda à questão com base nos itens numerados de 1 a 4, correspondentes a estudos que são úteis na investigação da evolução biológica de um táxon.",
+					"description_3": "\n1 - Anatomia e embriologia comparadas.\n2 - Similaridade com o DNA de outros táxons.\n3 - Registros paleontológicos (fósseis).\n4 - Existência de órgãos vestigiais.",
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"6"
+						},
+						{
+							"code":"2",
+							"description":"7"
+						},
+						{
+							"code":"3",
+							"description":"9"
+						},
+						{
+							"code":"4",
+							"description":"10"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"43",
+					"description":"Suponha que paleontólogos descobriram um fóssil no Brasil que pertencia a uma mesma espécie encontrada na África.\nA explicação para este fato está no(a):",
+					"options":[
+						{
+							"code":"1",
+							"description":"Deriva continental"
+						},
+						{
+							"code":"2",
+							"description":"Mutação"
+						},
+						{
+							"code":"3",
+							"description":"Isolamento geográfico"
+						},
+						{
+							"code":"4",
+							"description":"Desertificação"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"44",
+					"description":"Assinale entre as alternativas a seguir aquela que define evolutivamente a semelhança entre a asa de uma mariposa e a de um morcego.\n(Clique em ?)",
+					"description_2":"Uma mariposa e um morcego desenvolveram ao longo da evolução a capacidade de voo, muito embora pertençam a grupos diferentes de animais e tenham se desenvolvido de modo independente.",
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Especiação alopátrica"
+						},
+						{
+							"code":"2",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"3",
+							"description":"Homologia"
+						},
+						{
+							"code":"4",
+							"description":"Irradiação adaptativa"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"45",
+					"description":"Observe as figuras de diferentes vertebrados marinhos (Clique em ?).\nÉ CORRETO afirmar que a convergência adaptativa comum a todos esses animais consiste em terem todos:",
+					"width": 360,
+					"height": 174,
+					"img_code":327,
+					"img_tela_2":1,
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Forma do corpo e membros semelhantes a remos"
+						},
+						{
+							"code":"2",
+							"description":"Linha lateral e corpo revestido por escamas"
+						},
+						{
+							"code":"3",
+							"description":"Nadadeiras e brânquias nas laterais do corpo."
+						},
+						{
+							"code":"4",
+							"description":"Pescoço comprido e dentes afiados"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"46",
+					"description":"(Clique em ?)\nAssinale a alternativa correta:",
+					"description_2":"Nos estudos de evolução no reino animal, é frequente o uso dos termos análogo e homólogo. Analise as proposições abaixo, de acordo com estes estudos.\n\nI - Análogas têm estruturas de mesma função, mas de diferente origem.",
+					"description_3": "II - Análogas têm estruturas de mesma origem, mas de diferente função.\nIII - Homólogas têm apenas estruturas de mesma função e origem.\nIV - Homólogas têm estruturas de mesma função, mas de diferente origem.",
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Somente as afirmativas I, II e III são verdadeiras"
+						},
+						{
+							"code":"2",
+							"description":"Somente as afirmativas II, III e IV são verdadeiras"
+						},
+						{
+							"code":"3",
+							"description":"Somente a afirmativa I é verdadeira"
+						},
+						{
+							"code":"4",
+							"description":"Somente as afirmativas I e III são verdadeiras"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"47",
+					"description":"Leia o texto (Clique em ?).\nSe esses indivíduos fossem uma espécie real, sem parentesco próximo com as espécies da Terra, e considerando que teriam evoluído em um ambiente com pressões seletivas semelhantes às da Terra, a cauda dos Na’Vi, em relação à cauda dos macacos, seria um exemplo representativo de estruturas:",
+					"description_2":"No filme Avatar, de James Cameron (20th Century Fox, 2009), os nativos de Pandora, chamados Na’Vi, são indivíduos com 3 metros de altura, pele azulada, feições felinas e cauda que lhes facilita o deslocar por entre os galhos das árvores. Muito embora se trate de uma obra de ficção, na aula de biologia os Na’Vi foram lembrados.",
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Homólogas, resultantes de um processo de divergência adaptativa"
+						},
+						{
+							"code":"2",
+							"description":"Homólogas, resultantes de um processo de convergência adaptativa"
+						},
+						{
+							"code":"3",
+							"description":"Análogas, resultantes de um processo de divergência adaptativa"
+						},
+						{
+							"code":"4",
+							"description":"Análogas, resultantes de um processo de convergência adaptativa"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"48",
+					"description":"A teoria da Evolução, apesar de apresentar uma grande quantidade de evidências que afirmam sua veracidade, ainda é alvo de muitas discussões.\nUm dos fatos que confirmam a evolução diz respeito à presença de estruturas atrofiadas, que recebem o nome de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Órgãos análogos"
+						},
+						{
+							"code":"2",
+							"description":"Órgãos homólogos"
+						},
+						{
+							"code":"3",
+							"description":"Órgãos vestigiais"
+						},
+						{
+							"code":"4",
+							"description":"Apêndices"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"49",
+					"description":"Quando a semelhança entre estruturas animais não é sinal de parentesco, mas conseguida pela ação da seleção natural sobre espécies de origens diferentes, fala-se em:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Isolamento reprodutivo"
+						},
+						{
+							"code":"2",
+							"description":"Convergência adaptativa"
+						},
+						{
+							"code":"3",
+							"description":"Isolamento geográfico"
+						},
+						{
+							"code":"4",
+							"description":"Irradiação adaptativa"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"50",
+					"description":"Qual das alternativas apresenta um par de estruturas homólogas?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Asa de morcego e asa de borboleta"
+						},
+						{
+							"code":"2",
+							"description":"Carapaça de tatu e concha de caramujo"
+						},
+						{
+							"code":"3",
+							"description":"Nadadeira de peixe e asa de borboleta"
+						},
+						{
+							"code":"4",
+							"description":"Asa de ave e asa de morcego"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"51",
+					"description":"Leia o texto (Clique em ?).\nNo decurso da evolução, as mutações mudaram os aminoácidos em certas posições da proteína, mas o citocromo C de todas as espécies tem proteína, incontestavelmente estrutura e função semelhantes, tornando-se, para o evolucionismo, uma evidência de ordem:",
+					"description_2":"O citocromo C é uma proteína respiratória que se encontra em todos os organismos aeróbios. A molécula desta proteína existe em todas as espécies com a mesma função, sendo constituída por 104 aminoácidos.",
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Bioquímica"
+						},
+						{
+							"code":"2",
+							"description":"Embriológica"
+						},
+						{
+							"code":"3",
+							"description":"Citológica"
+						},
+						{
+							"code":"4",
+							"description":"Anatômica"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"52",
+					"description":"A evolução é uma teoria que afirma que os seres vivos sofreram modificações ao longo do tempo. Essa teoria é sustentada por algumas evidências, como a presença de estruturas que apresentam origem embrionária semelhante, mas nem sempre a mesma função. Essas estruturas são chamadas de:",
+					"options":[
+						{
+							"code":"1",
+							"description":"Homólogas"
+						},
+						{
+							"code":"2",
+							"description":"Heterólogas"
+						},
+						{
+							"code":"3",
+							"description":"Análogas"
+						},
+						{
+							"code":"4",
+							"description":"Isólogas"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				},
+				{
+					"code":"53",
+					"description":"Entre as alternativas a seguir, uma não apresenta evidência que apoia a teoria sintética da evolução ou Neodarwinismo. Aponte-a.",
+					"options":[
+						{
+							"code":"1",
+							"description":"Existência de alterações cromossômicas ou mutações no material genético"
+						},
+						{
+							"code":"2",
+							"description":"Prevalência dos indivíduos com características vantajosas"
+						},
+						{
+							"code":"3",
+							"description":"Reprodução sexuada com diferentes parceiros e grande variedade fenotípica"
+						},
+						{
+							"code":"4",
+							"description":"Presença de caracteres fenotípicos adquiridos no ciclo de vida"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"54",
+					"description":"Assinale a alternativa que ordena corretamente três novidades evolutivas, de acordo com o seu surgimento no processo de evolução das plantas terrestres.",
+					"options":[
+						{
+							"code":"1",
+							"description":"Sistema vascular, flor, semente"
+						},
+						{
+							"code":"2",
+							"description":"Semente, sistema vascular, flor"
+						},
+						{
+							"code":"3",
+							"description":"Sistema vascular, semente, flor"
+						},
+						{
+							"code":"4",
+							"description":"Semente, flor, sistema vascular"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"55",
+					"description":"Ao longo da evolução das plantas, estas também tiveram ancestrais que partiram do ambiente aquático para a conquista do ambiente terrestre. Qual foi o primeiro grupo de plantas que desenvolveu vasos condutores, possibilitando a formação das florestas sobre o continente.",
+					"options":[
+						{
+							"code":"1",
+							"description":"Angiospermas"
+						},
+						{
+							"code":"2",
+							"description":"Pteridófitas"
+						},
+						{
+							"code":"3",
+							"description":"Briófitas"
+						},
+						{
+							"code":"4",
+							"description":"Gimnospermas"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"56",
+					"description":"Considere os exemplos de características anatômicas e fisiológicas de três seres vivos (Clique em ?). Esses três seres vivos apresentam:",
+					"description_2":"O chimpanzé (Pan troglodytes) possui visão binocular e o primeiro dedo oponível nas mãos. A visão binocular permite que o cérebro distinga as diferentes distâncias entre os objetos observados e o observador e a presença do primeiro dedo oponível nas mãos permite o movimento de pinça, facilitando agarrar objetos.",
+					"description_3":"O inseto maria-fedida (Nezara viridula) libera um odor, produzido por glândulas toda vez que se sente ameaçado. Além dessa defesa, ele pode apresentar algumas colorações, como verde ou marrom, o que auxilia na proteção contra predadores.\nA planta urtiga (Urera baccifera) apresenta tricomas urticantes na superfície de suas folhas. Eles secretam substâncias ácidas, causando vermelhidão, coceira e ardência na pele de uma pessoa que as toca.",
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Normas de reação, que apareceram por mutações induzidas"
+						},
+						{
+							"code":"2",
+							"description":"Características adaptativas, que foram selecionadas pelo ambiente"
+						},
+						{
+							"code":"3",
+							"description":"Órgãos homólogos, que surgiram para adaptá-los ao ambiente"
+						},
+						{
+							"code":"4",
+							"description":"Órgãos vestigiais, que ficaram cada vez mais complexos com o tempo"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"57",
+					"description":"Sobre o tema evolução fizeram-se as seguintes afirmações (Clique em ?).\nEstá correto o que se afirma em:",
+					"description_2":"I - As espécies dos seres vivos são passíveis de modificação, podendo sofrer alterações morfofisiológicas ao longo do tempo;",
+					"description_3":"II - Prova de que nosso planeta foi habitado por seres diferentes dos que existem atualmente é a existência de fósseis;\nIII - Os que admitem que as espécies não se alteram no decorrer do tempo são adeptos da teoria do fixismo.",
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"I, apenas"
+						},
+						{
+							"code":"2",
+							"description":"I e II, apenas"
+						},
+						{
+							"code":"3",
+							"description":"I e III, apenas"
+						},
+						{
+							"code":"4",
+							"description":"I, II e III"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"58",
+					"description":"Leia o texto (Clique em ?).\nÉ correto afirmar que o mimetismo batesiano é uma adaptação em que:",
+					"description_2":"Mimetismo é um termo utilizado em biologia, a partir da metade do século XIX, para designar um tipo de adaptação em que uma espécie possui características que evoluíram para se assemelhar com as de outra espécie.",
+					"description_3":"As observações do naturalista Henry Walter Bates, estudando borboletas na Amazônia, levaram ao desenvolvimento do conceito de mimetismo batesiano.",
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"A fêmea de algumas espécies de inseto é imitada por flores que se beneficiam da tentativa de cópula do macho para sua polinização"
+						},
+						{
+							"code":"2",
+							"description":"Uma espécie apresenta características que a assemelham ao ambiente, dificultando sua localização por outras espécies com as quais interage"
+						},
+						{
+							"code":"3",
+							"description":"Um modelo inofensivo é imitado por um predador para se aproximar o suficiente de sua presa a ponto de capturá-la"
+						},
+						{
+							"code":"4",
+							"description":"Um modelo tóxico ou perigoso é imitado por espécies palatáveis ou inofensivas"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Letra D"
+				},
+				{
+					"code":"59",
+					"description":"As características do formato do casco e das patas da tartaruga-marinha e do jabuti confirmam a ocorrência de (Clique em ?):",
+					"description_2":"As figuras mostram uma tartaruga-marinha e um jabuti, répteis que apresentam características semelhantes e vivem em ambientes diferentes.",
+					"width": 357,
+					"height": 92,
+					"img_code":359,
+					"img_tela_2":1,
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Mutações que modificaram estruturas e direcionaram esses animais para um ambiente específico"
+						},
+						{
+							"code":"2",
+							"description":"Adaptações às mudanças ambientais por meio do uso frequente dessas estruturas"
+						},
+						{
+							"code":"3",
+							"description":"Evolução divergente entre animais que são filogeneticamente muito próximos"
+						},
+						{
+							"code":"4",
+							"description":"Analogia anatômica entre estruturas de espécies diferentes que pertencem ao mesmo filo"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"60",
+					"description":"Leia o texto (Clique em ?).\nOs gafanhotos cor-de-rosa são raros porque:",
+					"description_2":"Na natureza, a grande maioria dos gafanhotos é verde. No entanto, uma mutação genética incomum e pouco conhecida, chamada eritrismo, provoca alteração na produção de pigmentos, o que resulta em gafanhotos cor-de-rosa. Descobertos em 1887, esses gafanhotos raramente são encontrados.",
+					"width": 315,
+					"height": 199,
+					"img_code":360,
+					"img_tela_2":1,
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Os gafanhotos verdes são mais numerosos na natureza e, portanto, se reproduzem e deixam muito mais descendentes"
+						},
+						{
+							"code":"2",
+							"description":"Destacam-se visualmente e são facilmente encontrados e predados, enquanto os gafanhotos verdes se camuflam na natureza"
+						},
+						{
+							"code":"3",
+							"description":"Concorrem por alimento com os gafanhotos verdes, que são mais eficientes por terem a mesma coloração das folhagens"
+						},
+						{
+							"code":"4",
+							"description":"A mutação reduz a variabilidade genética na população de gafanhotos, prejudicando a seleção natural de indivíduos cor-de-rosa"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"61",
+					"description":"(Clique em ?).\nQual alternativa melhor descreve os ossos da perna traseira encontrados na baleia?",
+					"description_2":"Imagem do esqueleto de baleia com osso da perna identificado.",
+					"width": 360,
+					"height": 105,
+					"img_code":361,
+					"img_tela_2":1,
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Estruturas análogas às das nadadeiras de peixes vivos"
+						},
+						{
+							"code":"2",
+							"description":"Estruturas vestigiais que tinham uma função em algum ancestral"
+						},
+						{
+							"code":"3",
+							"description":"Estruturas fósseis de um antepassado extinto"
+						},
+						{
+							"code":"4",
+							"description":"Estruturas homólogas às asas de borboletas"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"Letra B"
+				},
+				{
+					"code":"62",
+					"description":"Qual das seguintes alternativas determinariam se duas espécies de plantas têm um ancestral recente comum?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Comprimentos de haste"
+						},
+						{
+							"code":"2",
+							"description":"Tempos de floração"
+						},
+						{
+							"code":"3",
+							"description":"Sequências de DNA"
+						},
+						{
+							"code":"4",
+							"description":"Distribuição dos habitats"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Letra C"
+				},
+				{
+					"code":"63",
+					"description":"(Clique em ?).\nÉ correto afirmar que:",
+					"description_2":"As ilustrações acima correspondem (da esquerda para a direita) ao membro anterior de um humano, um gato, uma baleia e um morcego.",
+					"width": 341,
+					"height": 267,
+					"img_code":363,
+					"img_tela_2":1,
+					"curiosidade":1,
+					"options":[
+						{
+							"code":"1",
+							"description":"Os ossos com o mesmo número são considerados estruturas homólogas"
+						},
+						{
+							"code":"2",
+							"description":"Os membros anteriores mostrados são análogos, pois têm funções diferentes"
+						},
+						{
+							"code":"3",
+							"description":"A semelhança entre os membros constitui um exemplo de evolução convergente"
+						},
+						{
+							"code":"4",
+							"description":"Órgãos homólogos apresentam estrutura e função semelhantes"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Letra A"
+				}
+			]
+		}
+		
+	]
+}

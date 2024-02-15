@@ -1,0 +1,373 @@
+{
+    "referencias":[
+        {
+        "code":"0",
+        "name":"Autoras"
+        },
+        {
+        "code":"1",
+        "name":"UFPR 2018"
+        },
+        {
+        "code":"2",
+        "name":"UECE-CEV 2017"
+        },
+        {
+        "code":"3",
+        "name":"UECE-CEV 2018"
+        },
+        {
+        "code":"4",
+        "name":"CONSUPLAN 2018"
+        },
+        {
+        "code":"5",
+        "name":"CUSC 2017"
+        },
+        {
+        "code":"6",
+        "name":"USS 2017/2"
+        },
+        {
+        "code":"7",
+        "name":"ACAFE Demais Cursos 2017/2"
+        },
+        {
+        "code":"8",
+        "name":"UFC-adap"
+        },
+        {
+        "code":"9",
+        "name":"PUCAMP-adap"
+        },
+        {
+        "code":"10",
+        "name":"UFU 2011"
+        },
+        {
+        "code":"11",
+        "name":"PUC-RIO 2013-adap"
+        },
+        {
+        "code":"12",
+        "name":"PUC-RIO 2014-adap"
+        },
+        {
+        "code":"13",
+        "name":"PUC-RIO 2017-adap"
+        },
+        {
+        "code":"14",
+        "name":"PUC-CAMPINAS 2011-adap"
+        },
+        {
+        "code":"15",
+        "name":"PUC-CAMPINAS 2013-adap"
+        },
+        {
+        "code":"16",
+        "name":"PUC-SP 2014-adap"
+        },
+        {
+        "code":"17",
+        "name":"UFRJ 2005-adap"
+        },
+        {
+        "code":"18",
+        "name":"ENEM - 2ª aplic - 2016-adap"
+        },
+        {
+        "code":"19",
+        "name":"ENEM - 2ª aplic - 2017-adap"
+        },
+        {
+        "code":"20",
+        "name":"UFJF 2013-adap"
+        },
+        {
+        "code":"21",
+        "name":"UFJF 2014-adap"
+        },
+        {
+        "code":"22",
+        "name":"ENEM(PPL) 2012-adap"
+        },
+        {
+        "code":"23",
+        "name":"ENEM(PPL) 2015-adap"
+        },
+        {
+        "code":"24",
+        "name":"ENEM 2015-adap"
+        },
+        {
+        "code":"25",
+        "name":"ENEM 2019-adap"
+        },
+        {
+        "code":"26",
+        "name":"FGV 2019-adap"
+        },
+        {
+        "code":"27",
+        "name":"UNCISAL 2017–adap"
+        },
+        {
+        "code":"28",
+        "name":"SLMANDIC 2018-adap"
+        },
+        {
+        "code":"29",
+        "name":"UFRGS 2019-adap"
+        },
+        {
+        "code":"30",
+        "name":"FMP/FASE 2018-adapt"
+        },
+        {
+        "code":"31",
+        "name":"UNICAMP 2013-adap"
+        },
+        {
+        "code":"32",
+        "name":"UNICAMP 2016"
+        },
+        {
+        "code":"33",
+        "name":"UNICAMP 2020"
+        },
+        {
+        "code":"34",
+        "name":"FASB 2019"
+        },
+        {
+        "code":"35",
+        "name":"UFPR 2013-adap"
+        },
+        {
+        "code":"36",
+        "name":"UFMG 2007"
+        },
+        {
+        "code":"37",
+        "name":"UNESP 2009-adap"
+        },
+        {
+        "code":"38",
+        "name":"UNESP 2017-adap"
+        },
+        {
+        "code":"39",
+        "name":"OBB 2011-adap"
+        },
+        {
+        "code":"40",
+        "name":"OBB 2014-adap"
+        },
+        {
+        "code":"41",
+        "name":"OBB 2016-adap"
+        },
+        {
+        "code":"42",
+        "name":"MACKENZIE 2005-adap"
+        },
+        {
+        "code":"43",
+        "name":"MACKENZIE 2014-adap"
+        },
+        {
+        "code":"44",
+        "name":"MACKENZIE 2015-adap"
+        },
+        {
+        "code":"45",
+        "name":"MACKENZIE 2016-adap"
+        },
+        {
+        "code":"46",
+        "name":"MACKENZIE 2017-adap"
+        },
+        {
+        "code":"47",
+        "name":"FUVEST 2009–adap"
+        },
+        {
+        "code":"48",
+        "name":"FUVEST 2015–adap"
+        },
+        {
+        "code":"49",
+        "name":"PROFBIO 2019"
+        },
+        {
+        "code":"50",
+        "name":"FAMERP 2018-adap"
+        },
+        {
+        "code":"51",
+        "name":"UFF 2019"
+        },
+        {
+        "code":"52",
+        "name":"IF-SPA 2019"
+        },
+        {
+        "code":"53",
+        "name":"VUNESP 2019"
+        },
+        {
+        "code":"54",
+        "name":"Colégio Pedro II 2019"
+        },
+        {
+        "code":"55",
+        "name":"AOCP 2018-adap"
+        },
+        {
+        "code":"56",
+        "name":"IBADE 2018-adap"
+        },
+        {
+        "code":"57",
+        "name":"UERJ 2008–adap"
+        },
+        {
+        "code":"58",
+        "name":"UERJ 2017/2"
+        },
+        {
+        "code":"59",
+        "name":"FATEC 2013/2-adap"
+        },
+        {
+        "code":"60",
+        "name":"FATEC 2014"
+        },
+        {
+        "code":"61",
+        "name":"UEG 2016-adap"
+        },
+        {
+        "code":"62",
+        "name":"UNICENTRO 2008-adap"
+        },
+        {
+        "code":"63",
+        "name":"UFSCAR 2011"
+        },
+        {
+        "code":"64",
+        "name":"UFAM 2015-adap"
+        },
+        {
+        "code":"65",
+        "name":"UEAP 2009-adap"
+        },
+        {
+        "code":"66",
+        "name":"ALBERT EINSTEIN 2018"
+        },
+        {
+        "code":"67",
+        "name":"UEA-SIS 2012"
+        },
+        {
+        "code":"68",
+        "name":"UEA-SIS 2015-adap"
+        },
+        {
+        "code":"69",
+        "name":"UEA-SIS 2018-adap"
+        },
+        {
+        "code":"70",
+        "name":"CESGRANRIO"
+        },
+        {
+        "code":"71",
+        "name":"UFRS"
+        },
+        {
+        "code":"72",
+        "name":"UFRRJ"
+        },
+        {
+        "code":"73",
+        "name":"FAAP"
+        },
+        {
+        "code":"74",
+        "name":"UNIRIO"
+        },
+        {
+        "code":"75",
+        "name":"UFPI"
+        },
+        {
+        "code":"76",
+        "name":"UFV"
+        },
+        {
+        "code":"77",
+        "name":"PUCMG"
+        },
+        {
+        "code":"78",
+        "name":"PUCRS"
+        },
+        {
+        "code":"79",
+        "name":"FCM-MG"
+        },
+        {
+        "code":"80",
+        "name":"UDESC"
+        },
+        {
+        "code":"81",
+        "name":"UFU-MG"
+        },
+        {
+        "code":"82",
+        "name":"FAVIP"
+        },
+        {
+        "code":"83",
+        "name":"UNESPAR"
+        },
+        {
+        "code":"84",
+        "name":"UEFS"
+        },
+        {
+        "code":"85",
+        "name":"UEL"
+        },
+        {
+        "code":"86",
+        "name":"Khan Academy"
+        },
+        {
+        "code":"87",
+        "name":"UFSC"
+        },
+        {
+        "code":"88",
+        "name":"UPF"
+        },
+        {
+        "code":"89",
+        "name":"FPS"
+        },
+        {
+        "code":"90",
+        "name":"UPE"
+        },
+        {
+        "code":"91",
+        "name":"UFPB"
+        }
+        
+    ]
+}

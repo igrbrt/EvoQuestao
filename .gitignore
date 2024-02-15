@@ -1,0 +1,19 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+*.pem
+*.aab
+web-build/
+web-report/
+EvoQuestao_upload_cert.pem
+EvoQuestao.jks
+evoquizz-e4eda3e66ce543ee9518a40fecb9af67-signed.aab
+
+# macOS
+.DS_Store
